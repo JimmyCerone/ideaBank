@@ -23,14 +23,15 @@ https://jira.amway.com:8443/browse/FUS-1740
 Questions: Is BV editable? Are we doing this already?
 
 My Rating: 5
-Team Rating: 
+Team Rating: 5
+Difference: 0
 
 Reasoning: I think this is a 5 because there are going to be snags as this is a very detail oriented story. 
 
 https://jira.amway.com:8443/browse/FUS-1741
 
-My Rating: 5
-Team Rating: 5
+My Rating: 8
+Team Rating: 8
 Difference: 0
 
 Reasoning: This feels like a caching issue and in my experience that can be hard to pinpoint and test.
@@ -38,6 +39,6 @@ Reasoning: This feels like a caching issue and in my experience that can be hard
 https://jira.amway.com:8443/browse/FUS-1743
 
 My Rating: 8
-Team Rating:
+Team Rating: 
 
 Reasoning: This seems like a simple linking problem with a little bit of a UI update. I think the hard part will be coordinating stuff from one page to another and testing will be tough. 

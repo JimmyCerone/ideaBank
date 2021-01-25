@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Articles/L’Chaim and Its Limits - Why Not Immortality.md",
+            "file": "Failures/Failure Table.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/L’Chaim and Its Limits - Why Not Immortality.md",
+                "file": "Failures/Failure Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "L’Chaim and Its Limits - Why Not Immortality.md",
+    "Failures/Failure Table.md",
+    "Atomic/FUS-1669.md",
     "Atomic/Tech Refinement.md",
+    "L’Chaim and Its Limits - Why Not Immortality.md",
     "Superintelligence.md",
     "Sapiens.md",
-    "Atomic/FUS-1669.md",
     "Untitled.md",
     "Books/Moment of Lift.md",
     "Writing/Why Removing One Word Can Improve the World.md",
-    "Books/Black Swan.md",
-    "Writing/10 Principles for a better life.md"
+    "Books/Black Swan.md"
   ]
 }
