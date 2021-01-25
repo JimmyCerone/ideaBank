@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "558ae49086e8cc7b",
+        "id": "f33649c86d2a0ed1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Principles by Ray Dalio.md",
+            "file": "Articles/L’Chaim and Its Limits - Why Not Immortality.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Principles by Ray Dalio.md",
+                "file": "Articles/L’Chaim and Its Limits - Why Not Immortality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Books/Principles by Ray Dalio.md",
-    "Writing/10 Principles for a better life.md",
+    "L’Chaim and Its Limits - Why Not Immortality.md",
+    "Atomic/Tech Refinement.md",
+    "Superintelligence.md",
+    "Sapiens.md",
+    "Atomic/FUS-1669.md",
     "Untitled.md",
-    "Decision History/Not Getting a Credit Card.md",
-    "Decision History/Deciding to Invest for a year and not saving for a down payment.md",
-    "Decision History/Choosing a Bank 2021.md",
-    "Books/Cheap - The High Cost of Discount Culture.md",
-    "Idea Explorers/Finding ways to save is hard.md",
-    "Idea Explorers/Budgets are hard to visualize.md",
-    "Idea Explorers/Discounts are usually false - prices are artificially inflated then dropped.md"
+    "Books/Moment of Lift.md",
+    "Writing/Why Removing One Word Can Improve the World.md",
+    "Books/Black Swan.md",
+    "Writing/10 Principles for a better life.md"
   ]
 }
