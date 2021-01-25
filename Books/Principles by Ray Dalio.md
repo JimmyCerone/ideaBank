@@ -18,6 +18,10 @@
 	- Lots of small bets don't help you if they are all correlated. 
 	- Example was his alpha fund, which found many uncorrelated commodities so that if one dropped, the rest of the fund wasn't affected. 
 	- An interesting take here is using negatively correlated assets to balance each other out. 
+- There are certain types of people that perform similarly across different types of problems
+	- They found that managers kept assigning detail oriented people to big picture tasks and vice versa
+	- Then they started doing analysis of personality to match people to tasks
+	- Then, just like their investments, they began to systematically pair people up with tasks and other people
 
 
 ## Action Steps
@@ -33,3 +37,5 @@
 Risk judgment ability seems to be critical in so many areas of life, from software development to #Budgeting, which seems to leave risk completely out of things. Getting really good at managing risk would be a boon. 
 
 #UncorrelatedBets in Neil and I's project is very interesting.... I also think Atomic could do a better of this as we only have a single revenue stream. 
+
+I think it'd be super helpful if Neil and I did our own #Personality tests to make sense of what tasks we need to do. 

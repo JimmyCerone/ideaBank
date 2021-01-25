@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing/10 Principles for a better life.md",
+            "file": "Books/Principles by Ray Dalio.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/10 Principles for a better life.md",
+                "file": "Books/Principles by Ray Dalio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
     "Books/Principles by Ray Dalio.md",
+    "Writing/10 Principles for a better life.md",
+    "Untitled.md",
     "Decision History/Not Getting a Credit Card.md",
     "Decision History/Deciding to Invest for a year and not saving for a down payment.md",
     "Decision History/Choosing a Bank 2021.md",
     "Books/Cheap - The High Cost of Discount Culture.md",
     "Idea Explorers/Finding ways to save is hard.md",
     "Idea Explorers/Budgets are hard to visualize.md",
-    "Idea Explorers/Discounts are usually false - prices are artificially inflated then dropped.md",
-    "Idea Explorers/Discounts are usually false - prices are artificially inflated then dropped 1.md"
+    "Idea Explorers/Discounts are usually false - prices are artificially inflated then dropped.md"
   ]
 }
