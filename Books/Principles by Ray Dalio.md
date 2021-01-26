@@ -22,6 +22,18 @@
 	- They found that managers kept assigning detail oriented people to big picture tasks and vice versa
 	- Then they started doing analysis of personality to match people to tasks
 	- Then, just like their investments, they began to systematically pair people up with tasks and other people
+- You are the designer manager of your life
+	- What would you do if you were your own manager? What do you need to be fired from doing? What jobs would you take?
+- There are 4 reactions to your weaknesses:
+	1. Deny they exist
+	2. Accept them and work at them to try to convert them into strengths
+	3. Accept them and find ways around them
+	4. Change what you are going after
+	- Worst is the first. 
+	- Second path is best if it works (you can't always change though)
+		- Is the thing you are trying to do consistent with your nature?
+	- Third path is the easiest and the most viable but least followed
+	- Fourth path requires flexibility to find a new path
 
 
 ## Action Steps

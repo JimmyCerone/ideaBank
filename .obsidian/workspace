@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Failures/Failure Table.md",
+            "file": "Good Time Journal.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Failures/Failure Table.md",
+                "file": "Good Time Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Good Time Journal.md",
     "Failures/Failure Table.md",
+    "Books/Principles by Ray Dalio.md",
+    "Books/Black Swan.md",
+    "Ask for Help Journal.md",
+    "How's It Going Journal (Daily - ish).md",
     "Atomic/FUS-1669.md",
     "Atomic/Tech Refinement.md",
     "L’Chaim and Its Limits - Why Not Immortality.md",
-    "Superintelligence.md",
-    "Sapiens.md",
-    "Untitled.md",
-    "Books/Moment of Lift.md",
-    "Writing/Why Removing One Word Can Improve the World.md",
-    "Books/Black Swan.md"
+    "Superintelligence.md"
   ]
 }
