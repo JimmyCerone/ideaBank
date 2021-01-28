@@ -1,3 +1,4 @@
 Activity | Engagement (1-10) | Energy (1-10) | Flow (y/n)
 --- | --- | --- | ---
 Troubleshot database | 3 | 2 | n
+Working through testing failure / refactoring | 6 | 4 | n

@@ -34,6 +34,12 @@
 		- Is the thing you are trying to do consistent with your nature?
 	- Third path is the easiest and the most viable but least followed
 	- Fourth path requires flexibility to find a new path
+- Computerize your decision making
+- Keep track of who is believable in a measured way
+- Having Principles helps you make less #Decisions because you would have principles for most "types" of situations. 
+	- This idea feels like #Levers 
+- When you aren't working well with someone it can be because you're communicating and effectively or it could be because you think about things differently and so instead of bad communication being a symptom it's actually being a cause it's actually a symptom of a fundamental difference between the two of you and those are both lovers you could push on
+- You can argue with someone or discuss and you should argue with people who have similar believability to you and discuss with people who have higher believability with you than you.
 
 
 ## Action Steps
