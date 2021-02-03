@@ -1,0 +1,2 @@
+- [ ] Fix Joe's environment
+- [ ] Create my own environment

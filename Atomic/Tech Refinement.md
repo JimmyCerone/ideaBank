@@ -1,3 +1,43 @@
+February 5th, 2021 Tech Refinement
+
+https://jira.amway.com:8443/browse/FUS-1696
+
+My Initial Rating: 5
+Final Rating: 5
+Team Rating: 5
+Difference: 0
+
+Reasoning: I am confused by this story and could use clarification. I'm confused whether this is a backend change, or a domain change. I'm also confused as to whether this will impact the import. It looks like it's the structuring of an import. 
+
+https://jira.amway.com:8443/browse/FUS-1760
+
+My Initial Rating: 5
+Final Rating: 3
+Team Rating: 3
+Difference: 0
+
+Reasoning: This seems like a simple button drop in connected to a query that already exists. My sense is that there could be some wrinkles in the loading state, but that's it. 
+
+https://jira.amway.com:8443/browse/FUS-1746
+
+My Initial Rating: 8
+Final Rating: 5
+Team Rating: 3
+Difference: 2
+
+Reasoning: While I think this could be complicated, I think there could be a simple fix for this. If not, I'm thinking it's gonna be tough. To account for this risk, I'll give it an 8. Upon consideration, I think since it is a bug, it's probably a 5 max.
+
+https://jira.amway.com:8443/browse/FUS-1747
+
+My Initial Rating: 3
+Final Rating: 3
+Team Rating: 2
+Difference: 1
+
+Reasoning: Feels like an isolated bug, which I like. I think for that reason, I'm giving it a 3 since there shouldn't be much testing or unintended consequences.
+
+---
+
 January 25th Tech Refinement
 
 https://jira.amway.com:8443/browse/FUS-1727

@@ -1,3 +1,7 @@
+Friday January 29th
+
+- Today was good. Blue slept most of the day after playing with Ivy yesterday, which was odd but good. I walked him during my coaching meeting, which seems to work very well. He likes midday walks. Finished work 3/4 an hour ahead on the week which is a fucking miracle. Going to see Liv tonight which I can't wait for. This week working with Meredith was fantastic and she is finally acting funny, which is a blast (only Andy really does it other than her), plus we are crushing stories which makes it exciting. Had a breakthrough with #AtomicObject where I'm going to try to start organizing information as my unofficial role. 
+
 Sunday January 24th 
 - Woke up at 8:30 or so (Blue woke up early), edited an article (I'm having so much fun with this - I even like promoting it!), got annoyed at Blue when he wouldn't settle down and let me read Designing Your Life. 
 - I really wanted to finish the book because it's been hanging over me forever. 
@@ -5,4 +9,4 @@ Sunday January 24th
 
 
 Monday January 25th
-- My database keeps breaking which sucks. I can't figure out how to fix it. Woke up a tad earlier today, did my writing before work, and started work earlier. What a start to the day. Damn Jimmy.
+- My #Database keeps breaking which sucks. I can't figure out how to fix it. Woke up a tad earlier today, did my writing before work, and started work earlier. What a start to the day. Damn Jimmy.

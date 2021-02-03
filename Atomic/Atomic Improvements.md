@@ -22,3 +22,21 @@ Why don't we have a systematic, transparent approach for building and assigning 
 - Does feedback make a difference at different levels?
 	- Where does feedback get heard? Where isn't it heard?
 - How much agency do employees really have?
+
+## Projects
+- Slack plug in that automatically surfaces past knowledge in past discussions and blogs
+- Annotate Spin blog and turn that into a graph for people to see
+	- Especially look into series of blog posts about the sales process & how Atomic does projects
+- Google form that crowd sources what tools people use at Atomic for a spin post
+- Create an organization graph from the periodic table with LinkedIn profiles
+
+
+## Frameworks
+- Atomic is like a bunch of little #Startup  s all within one company
+- #Ideas at Atomic are like little products on the #Market. Atomic doesn't do #Hierarchy, but if something works, people will adopt it. 
+
+
+## Ideas
+- Privately hosted #Twitter / #SocialNetwork
+	- Slack is good for keeping things (an archive) but not good at surfacing important or interesting things like #Twitter
+

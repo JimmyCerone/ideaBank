@@ -1,0 +1,3 @@
+I chose not to write a book in Eric Koester's writing program because I realized I didn't want to write a book that badly. It was just kind of a nice to have but would require lots of time. 
+
+My learning here is documented in the [[Failure Table]], where I talk about opportunities being, "Too good to pass up". To me that usually means I feel bad not doing it, even though I don't really want to. It's hard to remember that. 

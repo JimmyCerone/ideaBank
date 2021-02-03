@@ -1,0 +1,3 @@
+Phew. This was such a good movie. I wish I'd had a friend like Patrick in high school. I had many older people support me, but few that were really close friends that took me out of my shell. The movie was also very intense though, and made me very sad and reflective. 
+
+I found myself missing Oregon while watching the movie as it reminded me of that time, the closeness at least. Liv and I pointed out that it was so heavy. Child abuse, sexual assault, drug abuse, violence, death and grief. Suicide. It had just about every major type of trauma in it. Yet it was oddly beautiful. What a complex expression of what it is like to live with trauma. 

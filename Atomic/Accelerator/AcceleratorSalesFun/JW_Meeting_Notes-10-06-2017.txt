@@ -1,0 +1,46 @@
+ OnDeck Meeting
+Brittany, Jeff W, Corey
+At AO
+10/6/2017
+
+Building a platform
+
+Local Connectors
+* 7 in GR
+* Goes and gets professionals
+* Development pathway
+* $500 to get in
+* Has a LMS to teach them.
+* As jobs get closed, and get paid 20%
+* Connected with professionals - validate them.
+* Payment model based on level of work (150*2000=300,00 - pay them 30%, hold back 20% to ensure the job is done), maybe tiers
+* Incentive model and gaming to drive engagement and payment
+* Dashboard shows the next step
+Professionals
+* Can sign up but get connect to LC
+* Red - Green - Yellow indicator of sign up status
+Home Owners
+* Primary anchor is the home…geographic location.
+* Address in neighborhood on a map - want to see what other people are using
+* Local for tile services, click on a house, see they used Joe tile,
+* Word of mouth and referral service idea
+* Pull in people and then book professional service
+* Self selecting contractors - booking fees ($200) for a contractor. 
+    * Contractor, someone picked me and put money down. I’ve got to reach out to them in 24 hours. Send estimate through on deck.
+    * Booking fee applies to different contractor
+    * Job sensitive not price sensitive. The booking fee is not a big deal to them.
+    * Contractor completes the job. To close the job and get the balance of the booking fee.
+    * Customer has to say “approved”
+    * If bill is sent through the platform - take 2000, -200 fee, customer pays 1800. Take out 2% because they chose the system. Take out 5% fee for on deck. Balance goes to the contractor. Receive and apply money via ACH.
+    * Beauty of the booking model is that they have already been paid
+* Top of the list, 24 hour communication, guarantee.
+    * Contractor has to guarantee their work
+    * There is a complete umbrella.
+    * On deck insurance.
+    * Or pull on their earnings
+
+
+Want to have a rating system that is simple, “are you happy with it”. Want to be known for this.
+
+MVP is to get Local Connectors setup and then get professionals as an inventory.
+Prime the pump - final step for professional, input your last five jobs, rates yourself
