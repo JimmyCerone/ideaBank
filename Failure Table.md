@@ -13,3 +13,4 @@
 | Failed to bring up that I didn't want move the direction we were going at work | | Y | |  Need to bring up discomfort with project direction |
 | Taking an opportunity because it's too good to pass up | | Y | | |
 | Dropped computer in the snow while walking Ivy | Y | | | It's best to pause a meeting and switch to a phone (even if it breaks the norms) than try and fail to do something else |
+| Failed to go to bed at a decent hour last night | | Y | | I get into this mode where I saw I deserve the relaxation time. That's fair, but probably just means I need relax more and do less after work. Going to try to do non work stuff before work 8-8:30. |

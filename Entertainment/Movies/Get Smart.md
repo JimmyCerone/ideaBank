@@ -1,0 +1,1 @@
+Another one of my favorite movies of all time and yet another movie that plays with #ToxicMasculinity and the stereotypes that come with it. 

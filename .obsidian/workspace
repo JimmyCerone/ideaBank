@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1b0f48f34250b9",
+        "id": "e2cd420c13e2494e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Writing/The Destructive Force that is Exploration.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/The Destructive Force that is Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Writing/The Destructive Force that is Exploration.md"
+              }
             }
           }
         ]
@@ -101,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Cheap.md",
-    "Atomic/Amway Fusion/Sprint Demo/Sprint Demo Feb 3 2021.md",
-    "Decision History/Choosing Not to Write a Book.md",
-    "[Failure Table.md",
-    "Meetings or Interviews/Matt Farmer.md",
-    "Books/The Hard Thing About Hard Things by Ben Horowitz.md",
-    "Atomic/Amway Fusion/Issues/FUS-1726/Source to Market Item Revision Importer.md",
-    "Atomic/Amway Fusion/Untitled.md",
-    "Atomic/Amway Fusion/Tech Time.md",
-    "Atomic/Atomic Improvements.md"
+    "Writing/The Destructive Force that is Exploration.md",
+    "Books/Untitled.md",
+    "Books/Genghis Khan and the Making of the Modern World.md",
+    "Writing/Untitled.md",
+    "Writing/10 Principles for a better life.md",
+    "Entertainment/Movies/True Memoirs of an International Assasin.md",
+    "Atomic/Atomic Improvements.md",
+    "Atomic/Accelerator/Chrysler Cloud Challenge/Untitled.md",
+    "Atomic/Accelerator/Chrysler Cloud Challenge/Chrysler Cloud Challenge.md",
+    "Atomic/Accelerator/One on One Meeting Notes.md"
   ]
 }

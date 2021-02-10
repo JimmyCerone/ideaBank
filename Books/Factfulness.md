@@ -1,5 +1,4 @@
 ## Notes / Highlights from Kindle
-# 
 
 Notes and highlights for
 

@@ -16,7 +16,7 @@ Why don't we have a systematic, transparent approach for building and assigning 
 
 - Have people pushed back against decisions made by management? Have their been changes?
 - What have been major changes initiated by employees?
-- How has the acclerator changed over time? 
+- How has the accelerator changed over time? 
 - Who among non - leadership people has created and sustained change?
 - What avenues and processes exist for employees to create change?
 - Does feedback make a difference at different levels?
@@ -27,8 +27,11 @@ Why don't we have a systematic, transparent approach for building and assigning 
 - Slack plug in that automatically surfaces past knowledge in past discussions and blogs
 - Annotate Spin blog and turn that into a graph for people to see
 	- Especially look into series of blog posts about the sales process & how Atomic does projects
+	- Organize this by person. Index every person's blogs and see where they connect. 
 - Google form that crowd sources what tools people use at Atomic for a spin post
 - Create an organization graph from the periodic table with LinkedIn profiles
+	- https://www.kumu.io/?ref=producthunt
+- Generate an obsidian graph from source code structure
 
 
 ## Frameworks
@@ -39,4 +42,6 @@ Why don't we have a systematic, transparent approach for building and assigning 
 ## Ideas
 - Privately hosted #Twitter / #SocialNetwork
 	- Slack is good for keeping things (an archive) but not good at surfacing important or interesting things like #Twitter
+	- Slack app - use this here. 
+- Write blog posts about dev channel
 
