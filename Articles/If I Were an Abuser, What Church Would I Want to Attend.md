@@ -1,0 +1,15 @@
+Source: https://andrewjbauman.com/abuserchurch/?fbclid=IwAR3wE8XAgCyKYtfZNs9jmRHw4d9L-y6zRi8Q-i_z7p7d0K2pvyWx8e5XF_U
+
+## Quotes
+- An insane quote that blew me away: 
+> Rather than feeling as if I had made headway in helping ‘the church’ think through ways to help a victim in an abusive marriage or perpetrator looking to repent, or remain using abusive tactics, the focus of the training pivoted when one of the pastors asked, “What do you do when a woman lies?” The question deserved curiosity. We all know that by virtue of gender, all women are not sugar and spice and everything nice, so I asked him if he could give me an example. 
+> “Yes”, he exclaimed and stood to his feet.  “A woman came to my office to tell me she was being beaten by her husband.” He hiked up his pants to ensure his shirt was neatly tucked into his jeans, displaying a large belt buckle that seemed to bring him great pleasure.  He looked down at it briefly, looping his thumbs into his belt and then filled us in as to what his response to her had been. With a bit of flair, he announced, “Now, I’m a minister of the gospel of the Lord Jesus Christ. I don’t tolerate abuse in my church. So I went over to confront her husband and he told me he had NEVER beaten her.  He might backhand her from time to time, but he had never beaten her.” He looked directly at me and shaking his head back and forth said, “So what do you do when a woman lies?”
+
+- This quote leveled me, as I had never concretely connected biblical belief to perpetration of abuse. I'd known it intellectually, but seeing this connection made IRL was shocking. 
+> A church with rigid rules about gender roles would be a fairly safe bet.  If my wife ever confided to someone what was happening at home, I could be fairly certain I could justify my behavior and blame actions on her.  After all, Eve was responsible for Adam’s sin.
+
+- The following quote expanded my definition of abuse, which was rather limited. I had never considered that not letting someone leave is abuse, yet it's control. I have grabbed Liv before (when she was leaving the party and I wanted to walk her home) and manipulated her around leaving (when I ran after her in her car after that one fight we had). These realities hit me hard and made me realize I have lots of work to do yet. 
+> In a research study that included 1059 male participants of our intervention program from 1990-2003, over 20% of the men admitted to the following behaviors in their relationship with their intimate partner: pushing, restraining, grabbing to prevent leaving, punching holes in the walls, pounding/slamming on a table, hitting with an open hand, slapping, shaking, gripping to prevent leaving, punching with a fist, throwing objects at or near their partner, blocking, raising their voice, destroying family property or vehicles, choking, kicking, and bumping.
+
+## Reflections
+- This question echoed throughout my mind. I never considered how deeply woven into #Church life abuse can be, and how well setup the system is to perpetuate it. 

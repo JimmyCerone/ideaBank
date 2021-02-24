@@ -44,4 +44,5 @@ Why don't we have a systematic, transparent approach for building and assigning 
 	- Slack is good for keeping things (an archive) but not good at surfacing important or interesting things like #Twitter
 	- Slack app - use this here. 
 - Write blog posts about dev channel
-
+- Atomic Comic Book
+	- Should have a new edition every year for Atomicon

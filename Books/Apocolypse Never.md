@@ -1,0 +1,1 @@
+A book that [[Will Lake]] and I read together on climate change. Helped open my eyes to the idea that partisanship wasn't always the answer, that I coudn't simply walk the party line, either of them. 

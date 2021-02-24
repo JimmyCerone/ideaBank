@@ -1,0 +1,3 @@
+| Success		| Luck?		| Strength?			| Growth Opportunity? 		| Insight 			|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| Asked for help at work [[2021-02-15]] for once with Jordan out | | | Y | I think I'm finally starting to realize that asking for help should happen early. I'm also recognizing the #Feeling I get when I don't want to ask for help, but should. It's like a pit in my stomach that is accompanied by lots of distractions. When I'm feeling bad and incapable, I go to #Distractions |

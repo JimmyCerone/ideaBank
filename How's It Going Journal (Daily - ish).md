@@ -1,3 +1,7 @@
+Friday February 12th, 2021
+
+- Work is so hard. And being without blue is really hard. Very lonely week. Had to work without Jordan today, which was so hard. Felt out of my depth today. 
+
 Thursday February 4th, 2021
 
 - Almost done with my first week without Blue. An odd week, because my rock is gone. Been having trouble both going to bed and getting up. Thought I'd be all into reading and stuff but I spend about the same amount of time on it. Working on scaling back and changing all my ambitions to be more community oriented and less serious. My thinking was informed a lot by [[11 Reasons Not to Become Famous - Tim Ferris]] and [[Still Alive by Astral Codex Ten]].

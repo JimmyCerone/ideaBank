@@ -1,0 +1,1 @@
+One of the most influential books I've ever read, which I read after [[Apocolypse Never]]. Fascinating deep dive into #Psychology.

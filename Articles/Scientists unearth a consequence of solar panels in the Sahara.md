@@ -1,0 +1,20 @@
+Source: https://www.inverse.com/science/why-turning-the-sahara-into-a-giant-solar-farm-could-damage-the-global-climate
+
+## Reflections
+- Inverse sounds like a cool publication, first of all. 
+- Second, this is interesting for a number of reasons. 
+	- First, the Sahara could provide for all our energy needs? 
+		> [Researchers imagine](https://www.bbc.com/news/science-environment-45435593) it might be possible to transform the world’s largest desert, the Sahara, into a giant solar farm, capable of meeting [four times](https://theconversation.com/massive-solar-and-wind-farms-could-bring-vegetation-back-to-the-sahara-102745) the world’s current energy demand.
+	- Second, I see #Colonialism here:
+		> Blueprints have been drawn up for projects in [Tunisia](https://www.tunur.tn/) and [Morocco](https://www.bbc.com/future/article/20161129-the-colossal-african-solar-farm-that-could-power-europe) that would supply electricity for millions of households in Europe.
+	- Third, it's fascinating to imagine that #Solar #Energy could disrupt the world and regional weather patterns by changing the way light is absorbed and reflected. It reminds me of the polar ice caps melting, which is causing a similar kind of feedback loop as the one here. 
+	- Fourth, this is a great example of the complexities of #Renewable Energy and energy in general. It is not simple or black and white as [[Apocolypse Never]] might have you think. 
+	- Fifth, reminds me of [[Growth by Vaclov Smil]], I wonder what he would have to say? Also makes me think that #Nuclear could produce the same amount of energy with a much smaller footprint. 
+
+
+## Fun Facts
+- All these facts are interesting and disturbing effects of a change like this.
+> The model revealed that when the size of the solar farm reaches 20% of the total area of the Sahara, it triggers a feedback loop. The heat emitted by the darker solar panels (compared to the highly reflective desert soil) creates a steep temperature difference between the land and the surrounding oceans that ultimately lowers surface air pressure and causes moist air to rise and condense into raindrops. With more monsoon rainfall, plants grow and the desert reflects less of the sun’s energy since vegetation absorbs light better than sand and soil. With more plants present, more water is evaporated, creating a more humid environment that causes vegetation to spread.
+> This scenario might seem fanciful, but studies suggest that a similar feedback loop kept much of the Sahara green during [the African Humid Period](https://oxfordre.com/climatescience/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-532), which only ended 5,000 years ago.
+> Covering 20% of the Sahara with solar farms raises local temperatures in the desert by 1.5°C according to our model. At 50% coverage, the temperature increase is 2.5°C. This warming is eventually spread around the globe by the atmosphere and ocean movement, raising the world’s average temperature by 0.16°C for 20% coverage, and 0.39°C for 50% coverage. The global temperature shift is not uniform though – the polar regions would warm more than the tropics, increasing sea ice loss in the Arctic. This could further accelerate warming, as melting sea ice exposes dark water which absorbs much more solar energy.
+> This massive new heat source in the Sahara reorganizes global air and ocean circulation, affecting precipitation patterns around the world. The narrow band of heavy rainfall in the tropics, which accounts for more than 30% of global precipitation and supports the rainforests of the Amazon and Congo Basin, shifts northward in our simulations. For the Amazon region, this causes droughts as less moisture arrives from the ocean. Roughly the same amount of additional rainfall that falls over the Sahara due to the surface-darkening effects of solar panels is lost from the Amazon. The model also predicts more frequent tropical cyclones hitting North American and East Asian coasts.

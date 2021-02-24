@@ -1,0 +1,5 @@
+Source: https://rockfound.rockarch.org/eradicating-hookworm
+
+## Reflections
+- Fascinating that in 1910 (so recent) 40% of the South had hookworm at one point, contributing to the stereotype that people from the #South were lazy, when really it was a disease. Wild to think that something like this went under the radar for so long. 
+- First heard about this while reading [[Titan The Life of John D. Rockefeller, Sr.]], which paints a complicated picture of his legacy. I mean he eradicated hookworm in a whole region of the US, then went on to do it internationally which is insane. Yet many of his business practices were less than good. Complicated indeed. Further, Rockefeller didn't quite agree with modern medicine and loved osteopathy and homeopathy (which were later outlawed). HIs dad practiced some of both as a fake healer / doctor who travelled the country. Weird stuff. 

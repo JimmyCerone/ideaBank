@@ -12,4 +12,4 @@
 	- [x] Make updates to the margin importer
 
 
-[[Add Cost Last Updated By And At To Market Item Revision]]
+The follow on to this story is: [[FUS-1727 Add Cost Last Updated By And At To Market Item Revision]]

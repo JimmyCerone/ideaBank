@@ -1,0 +1,17 @@
+- Load Balancing between API Gateway and Aurora 
+- Subnets are a great touch + VPCs 
+- Pricing info is helpful as well 
+- Missed lambda between API Gateway and DB
+- Cloudtrail is for logging infrastructure changing where cloudwatch tracks api changes
+- Elastic Search 
+	- Looked into it for #Fusion and decided against it. 
+	- Depends on how fast you need queries to respond. 
+	- Good at full text search, but doesn't have huge advantages where you are searching by ID or have a constrained search set
+		- Would be great for a package description field
+- What's the first thing that will break when you hit 10 million users?
+	- Lack of load balancer will mess things up quickly
+	- Single availability zones and duplicate to multiple zones
+		- Regions could segment your data and create big latencies 
+- Where would you put a load balancer? 
+	- Either between the api gateway and the lambda for processing changes or API gateway and aurora
+- Adding a cache would be useful to cut down on time for queries

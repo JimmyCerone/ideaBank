@@ -1,0 +1,1 @@
+My first introduction into the #History of #Computer s. Fascinating to see what things were like back in the day and equally interesting to discover what a peculiar man Steve Jobs was. This book is like the post script to [[The Innovator's - How a group of Hacker's, Geniuses and Geeks Created the Digital Revolution]]. I read it while also reading 

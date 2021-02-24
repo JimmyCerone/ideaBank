@@ -169,10 +169,16 @@ where id = '9e1d1cee-e3dd-48ef-8db4-01c474d3c287';update "MarketProductVariantVe
 set "retailMarkupRatioClassificationId" = '6ab83a81-bc2e-4987-ae8d-101dc4d14d79'  
 where "retailMarkupRatioClassificationId"  IS NULL;update "MarketProductVariantVersion"  
 set "bvPvRatioClassificationId" = 'fb3c5f21-edc1-4327-a99a-853644199726'  
-where "bvPvRatioClassificationId"  IS NULL;update "MarketProductVariantVersion"  
+where "bvPvRatioClassificationId"  IS NULL;
+
+update "MarketProductVariantVersion"  
 set "bvAboRatioClassificationId" = 'b71dfdc9-5819-493a-bb39-c7ec726fcf5c'  
-where "bvAboRatioClassificationId"   IS NULL;update "MarketProductVariantVersion"  
+where "bvAboRatioClassificationId"   IS NULL;
+
+update "MarketProductVariantVersion"  
 set "preferredPriceDiscountRatioClassificationId" = '358e0198-c94c-4eb4-abbc-3aa5c3689d4d'  
-where "preferredPriceDiscountRatioClassificationId" IS NULL;update "MarketProductVariantVersion"  
+where "preferredPriceDiscountRatioClassificationId" IS NULL;
+
+update "MarketProductVariantVersion"  
 set "marketConsumptionTaxClassificationId" = '9e1d1cee-e3dd-48ef-8db4-01c474d3c287';  
 where "marketConsumptionTaxClassificationId" IS NULL;

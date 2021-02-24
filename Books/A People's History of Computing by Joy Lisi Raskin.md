@@ -1,0 +1,1 @@
+Not quite what I thought it would be. It was a very focused book. It gave a great history of connected #Computer s pre internet but seemed to do little else. Fascinating in contrast with [[Steve Jobs by Walter Isaacson]]. Basically an example of communal computing, computing done in #Community whereas Steve Job's was a pioneer of the more consumeristic computing. 

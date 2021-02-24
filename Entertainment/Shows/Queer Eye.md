@@ -1,0 +1,1 @@
+Queer Eye did an excellent episode about a man paralyzed from the waist down after he was shot in a gang related incident. He then moved on to fight #ToxicMasculinity and help raise awareness about folks with disabilities. 

@@ -1,8 +1,20 @@
+Conversation February 23rd, 2021
+
+### Ideas
+- Thinks of the day as a crescendo from less to more social and more creative to more mundane. 
+- How did you handle life as a young dev? 
+	- Time and development. 
+	- Looked for skill gap and asked what was the essential skill gap he could close and keep up? 
+		- If you learn how the test frameworks are written, you can understand a language quickly. 
+		- Sometimes you need to stop worrying about the domain as a whole and just get stuff done. 
+	- Then what is the biggest skill gap on the team? Look for bottlenecks and where people are grumbling.
+- Chatting about this article [[Designers Are More Valuable than Programmers]]
+
 Conversation February 2nd, 2021
 
 #### Ideas
 - Roger Martin biz strategy author
-	- #KnowledgeFUnmel
+	- #KnowledgeFunmel
 		- Start with a mystery 
 		- Moves to heuristics
 		- Finally move to algorithms 

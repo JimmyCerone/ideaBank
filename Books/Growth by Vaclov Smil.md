@@ -1,0 +1,1 @@
+All of Smil's #Books are loved by Bill Gates and [[Neil]] and I read this together last year. Very hard read. Lots about #Energy, including great thoughts on #Renewable and #Nuclear.

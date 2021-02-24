@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e2cd420c13e2494e",
+        "id": "85fe1a74571a37a8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing/The Destructive Force that is Exploration.md",
+            "file": "Articles/A Word on Longevity.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379
   },
   "right": {
     "id": "92abecb38587e8b2",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/The Destructive Force that is Exploration.md",
+                "file": "Articles/A Word on Longevity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/The Destructive Force that is Exploration.md"
+                "file": "Articles/A Word on Longevity.md"
               }
             }
           }
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Writing/The Destructive Force that is Exploration.md",
-    "Books/Untitled.md",
-    "Books/Genghis Khan and the Making of the Modern World.md",
-    "Writing/Untitled.md",
-    "Writing/10 Principles for a better life.md",
-    "Entertainment/Movies/True Memoirs of an International Assasin.md",
-    "Atomic/Atomic Improvements.md",
-    "Atomic/Accelerator/Chrysler Cloud Challenge/Untitled.md",
-    "Atomic/Accelerator/Chrysler Cloud Challenge/Chrysler Cloud Challenge.md",
-    "Atomic/Accelerator/One on One Meeting Notes.md"
+    "Articles/Untitled.md",
+    "Articles/The Algebra of Wealth.md",
+    "Articles/Grand Rapids Uprising 1967.md",
+    "Companies/Standard Note.md",
+    "Companies/New Degree Press.md",
+    "Articles/11 Reasons Not to Become Famous - Tim Ferris.md",
+    "Companies/Untitled.md",
+    "Good Time Journal.md",
+    "Failure Table.md",
+    "Learning Journal.md"
   ]
 }
