@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "85fe1a74571a37a8",
+        "id": "6b120cfe7ee2df05",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Articles/A Word on Longevity.md",
+            "file": "Atomic/Amway Fusion/Issues/FUS 1676 - A user can override a price record while price editing - Frontend.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Problem",
+                "query": "tag:#Podcast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/A Word on Longevity.md",
+                "file": "Atomic/Amway Fusion/Issues/FUS 1676 - A user can override a price record while price editing - Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/A Word on Longevity.md"
+                "file": "Atomic/Amway Fusion/Issues/FUS 1676 - A user can override a price record while price editing - Frontend.md"
               }
             }
           }
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Articles/Untitled.md",
-    "Articles/The Algebra of Wealth.md",
-    "Articles/Grand Rapids Uprising 1967.md",
-    "Companies/Standard Note.md",
-    "Companies/New Degree Press.md",
-    "Articles/11 Reasons Not to Become Famous - Tim Ferris.md",
-    "Companies/Untitled.md",
-    "Good Time Journal.md",
-    "Failure Table.md",
-    "Learning Journal.md"
+    "Atomic/Amway Fusion/Issues/FUS 1676 - A user can override a price record while price editing - Frontend.md",
+    "Atomic/Meetings/Chris Farber.md",
+    "Atomic/Meetings/Micah Alles.md",
+    "Atomic/Untitled.md",
+    "Atomic/Atomic Improvements.md",
+    "Daily Journal/2021-02-25.md",
+    "Friends/Joey Dawson.md",
+    "Friends/Untitled.md",
+    "Friends/Neil.md",
+    "People/Untitled.md"
   ]
 }

@@ -1,0 +1,3 @@
+## February Conversation
+- Joey is increasingly interested in #Entrepreneurship and has some interesting ideas about #Retail, in some ways related to [[Cheap - The High Cost of Discount Culture]]. Basically the idea is IKEA but for outdoor shows. 
+	- The idea of #Craft is deeply embedded in those interested in the outdoors, leading to interesting potential effects and collaborations. Reminds me of [[Shop Class as Soulcraft - An Inquiry into the Value of Work]]. 

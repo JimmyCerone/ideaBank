@@ -1,3 +1,32 @@
+## February 25th, 2021
+
+### Testing Instructions
+##### Requirements:
+
+ * A user can right click on a product row while price editing to open a menu with the override option
+ * A pop-up appears to confirm the user wants to override the price record
+ * Once in override mode, additional fields appear editable
+
+##### To test:
+
+1.  Go to review environment
+2.  Select the "1676 Testing" sandbox.
+3.  Right click on a row
+4.  Click the Override button
+5.  Confirm that a popup appears. 
+6.  Click cancel and confirm that the popup disappears and no changes are made
+7.  Right click on a row, click the override button, click continue on the popup
+8.  Confirm that the following fields are editable
+ - Preferred Price Less Tax
+ -  Abo Price Less Tax
+ - Bonus Volume
+ - Market Point Value
+9. Edit a field and confirm that the difference is correct. Also confirm that the forward and reverse calculations were completed. 
+10. Choose a new row and enter override mode. 
+11. Edit a field and confirm that the ratios are now editable.
+12. Change the ratio and notice that the fields become uneditable. 
+- Can these change to editable? 
+
 ## February 23rd, 2021
 - What I know so far. The mutation seems to be working. The record it's getting back looks fine. But for some reason the expected is wrong. 
 - ~~Do we have to do the `designatedbvaboratio` as well? Or are we going to leave that off~~
