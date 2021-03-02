@@ -1,0 +1,14 @@
+## Fun Facts About His Interview
+- Robert Jordan wrote this to investigate distortions of information across time and space, and the source of legends. That is fascinating, especially in light of today's political atmosphere. I'm starting to see how misalignment in information can cause huge problems (the Seanchan woman trying to seize the throne given she thought that Tuon was dead). 
+- Robert Jordan talked about how his source of inspiration for the wheel of time was from Hindu culture.
+	- He spoke of the innovation of linear time that came from the Greeks, which is fascinating. 
+	- If time is circular, change is not possible. If time is linear, time is possible.
+	- Spoke of the weird resonance between the past and now, where the myths of the past become reality now and what happens now becomes the myths of the past. 
+- Jordan also spoke of him innovating from the idea that Tolkein had where some mage comes and says, "You are special!" and then people just come along. Jordan wanted to explore what it'd be like to have pushback, to show the suspicion of country people as well. 
+	- Another angle he was exploring was self-interest on the part of the savior. What would it look like for the savior of the world to be imperfect? 
+- Where did he get the myths?
+	- Many religions and mythologies. He tries to present the stories as real, not myths. 
+- What of the one power? 
+	- The one power comes from the true source, which drives the wheel of time. It has two separate halves that work with and against each other and that tension drives the wheel. 
+	- An interesting note is that men can't teach women how to use the male or female half and vice versa. 
+- Listens to his own audio books to get a different perspective on his work so that he can understand if he got his point across. It helps him act as another editor (his wife is his real editor).
