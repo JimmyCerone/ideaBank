@@ -1,0 +1,5 @@
+## Context
+- The author of #LovesExecutioner struggles with his patient who refuses to open 3 letters about his time at an institute for research. The scientist is sure because of [[03-04-2021 - False perceptions of other's perceptions of you can trap you]] that the letters will crush him. The author can't get the scientist to open the letters.
+
+## Ideas
+- The author tries to force the scientist to open the letters at first. It doesn't work because the man has a [[Shared realities with different interpretations]] different interpretation of events and can't be swayed by logic. The author is tempted to go around him to force him to open the letters. However, that might have led him to become more fully entrenched in his delusion (he could have said the author planted the letters as fakes). In the end, the scientist heard from another source (other than the letters) that everything was ok. 

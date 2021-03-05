@@ -1,0 +1,1 @@
+Freud says that the aim of humans and the driver of them is a will to pleasure. We are always seeking pleasure. 

@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c404c15fcb1fdcf",
+        "id": "7daf9c79957961b9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Don't just talk at people, ask for their input.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Levers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Don't just talk at people, ask for their input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Don't just talk at people, ask for their input.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,15 +101,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Inbox/Atomic/Meetings/Jason Porritt.md",
     "Untitled.md",
-    "Functional vs unnecessary pain.md",
-    "Why Removing One Word Can Improve the World.md",
-    "Inbox/Atomic/Amway Fusion/Issues/FUS 1676 - A user can override a price record while price editing - Frontend.md",
-    "Daily Journal/2021-03-01.md",
-    "The Destructive Force that is Exploration.md",
-    "Inbox/Mind communicates in images but we speak in words.md",
-    "Inbox/Books/Love's Executioner.md",
+    "Inbox/Untitled.md",
+    "Inbox/Community Funds & Family Fund.md",
+    "Daily Journal/2021-03-04.md",
     "Shared realities with different interpretations.md",
-    "Inbox/Untitled.md"
+    "Functional vs unnecessary pain.md",
+    "03-04-2021 - False perceptions of other's perceptions of you can trap you.md",
+    "03-04-2021 - False perceptions can't be cured by logical argument nor by manipulation.md",
+    "Inbox/Books/Love's Executioner.md"
   ]
 }
