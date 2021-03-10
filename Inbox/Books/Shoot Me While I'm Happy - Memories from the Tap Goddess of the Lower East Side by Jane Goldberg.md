@@ -72,3 +72,60 @@
 ### Page 105
 - Had some interesting ideas about limiting beliefs and was very pragmatic about her craft and career. Also very focused on the now: 
 	> "I don't compare. As Shakespeare said, 'Comparisons are odious.' You're asking me limited questions because your thoughts are limited and until you dispose of them, my girl, those thoughts aren't going to hurt me. They're going to hurt you. There's an old saying: 'The head that thinks it is the head that hurts.'"
+
+
+## 140 - 225
+
+### Hollywood and Trading Eights
+- Participated in the movie _TAP_ with Gregory Hines, Sammy Davis Jr, and many hoofers in 1988 or so. 
+	- Gregory Hines was in his volume phase where his main focus was to get LOUD. Utilized #Tap dancer Al Desio's invention combining tap and electronics, Tap-Tronics TM to bring his style to the film
+	- The movie dealt with the debate raging among tappers of the day: Was Broadway tap or John Bubbles style tap the "real" style?
+	- Tons of competition among #Dancers in the #Movie made it hard to be in. Lots of schadenfreude. 
+	- Felt the movie was male biased:
+		> While the "go" of the script was unchangeable and built around the men, the women's dancing was decorative and improvised from the get go. 
+	- Beginning of the thread of CHALLENGES - the men on set were constantly involved in these. 
+		- Called "trading eights", a true setup for competition and one upsman ship
+		- The author's thoughts:
+		> I totally hated that part of tap's tradition and found it to be arcane...To me, his plan reeked of machismo, competition for the sake of competition
+	- The author became depressed through the course of the filming, in part because of the competition and in part because of the isolation and craziness of Hollywood
+
+
+### Sammy Groupie
+- Sammy Davis, Jr. was in _TAP_ - he of the Rat Pack, Vegas, and Mr. Showbiz. Was able to mix fame with deep roots in tap and connections to the OGs.
+- Sammy was a tapper originally, but put down his shoes when tap went underground, trading it for showbiz. 
+> When Sammy's character in _TAP_ talked about "the real thing," I knew he was referring to black dancers' contributions. 
+> Race was often _the_ unspoken subject between black and white dancers when I was learning about tap. 
+
+### A Cutting Session with Gregory Hines
+>  Cutting Session: Jam session where people (men) try to outdo and out-impress one another
+- Gregory Hines loved the Challenge and cutting sessions, while Jane hated them. Their debate was tied closely to their thoughts about the place of #Women in tap. Here's Gregory's thoughts:
+	> I've noticed that tap is thought of by people in power situations as a black, male-dominated art. Tap has always had that paternal quality about it since Uncle BO and Shirley Temple. How people perceive it makes a difference in what happens. We men need to point our fingers at ourselves and get this happening. Ladies do more for. tap dancing now. White women have brought the thing back. Something new might come of it. Equilibrium of the races - it's all there in tap. 
+- Hines seemed to be controversial in some aspects, encouraging women to dress up as a way to get more work. Jane disagreed, pushing back on his claims, saying that women weren't allowed to dictate what they wore on stage and if they could they'd do just fine. 
+
+### Comparaholics Anonymous
+> A desperation for work, mixed with ego and a yearning for some sort of security they never had, made some of them take any gig. When asked whether the floor mattered at one of our venues, Cookie Cook replied, "We'll work on rugs."
+- This chapter is all about her troubles with the competitive nature of tap and the discomfort with declaring winners and losers. She wished tap were more about #Collaboration. She said, "Can't we all have a good time and get along?"
+- As a side note, she talked about the importance of order in a line up. The biggest performance usually went second to last just before everyone leaves. 
+
+### The Nicholas Brothers Get a Salad Bowl
+- The Nik brothers worked with everyone - starting out as kids. They worked with Duke Ellington in Stormy Weather and even Cab Calloway!
+
+### Stop-Time: New Tap, New Art Deco
+- This chapter addresses the connections between #Art Deco in Miami and Tap. The author unsuccessfully tried to relocate her act to Miami, failing because people didn't like her #History filled humorous act. 
+	- Both Art Deco and Tap were reviving movements started in the 1930's. 
+
+![Miami's Art Deco District: sun, pastel shades and neon ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.friendlyrentals.com%2FFR_imgs%2Fblog%2FMiami-art-deco.jpg&f=1&nofb=1)](https://images.friendlyrentals.com/FR_imgs/blog/Miami-art-deco.jpg)
+
+> Tap itself is perceived as a lower class (black) art, although some of its roots also seem to be costumed with top hats, white ties, and tails in gorgeous Deco settings. Low art, high art. Lastly, both Art Deco and tap have often been described as uplifting. I think a big part of hwy these revivals may have happened at the same time was that we were all looking not only for the genuine in art, but maybe even, some "fun" again. These revivals followed demoralizing times. 
+
+### Miami Danny Rose
+- This chapter talks about her failed attempt to bring her #Tap to Miami. The presenter who brought her in misjudged her fit with the audience. All her jokes bombed and her dreams of living out her days in Miami went with them. 
+
+### Carry Your Shoes - Tap Dancing in India
+- Jane received a Fulbright to explore the connections between Kathak from India (dance with bare feet) and #Tap. 
+	> Colonel Rege told me about the temples and courts and Mogul empire where the kathaks danced and were married to God. Kathak means "storyteller" and when the dancers aren't telling their stories with their "abhinaya" or expressions, they slap their bare feet on the hard marble floors creating magical, unimaginable rhythms. Ankle bells are tied on each pair of feet to enhance the sound. 
+
+- Met a mix of American expats and eager to host Indians with whom to share tap. 
+	- Was featured at many hotels while in India to perform. 
+	- A very lonely time as well, though productive in terms of dance and connections
+	- In an interesting parallel, many of the old masters of Kathak were treated with disdain like old tap gurus. Were not treated with reverence and respect in their final years. 

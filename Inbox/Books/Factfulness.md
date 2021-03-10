@@ -246,7 +246,7 @@ This chapter is about the negativity instinct : our tendency to notice the bad m
 
 ### Note - Page 48 · Location 672
 
-This seems very similar to righteous mind. Why ara so many books like this coming out around now?
+This seems very similar to [[The Righteous Mind by Jonathon Haidt]]. Why ara so many books like this coming out around now?
 
 ### Highlight (yellow) - Page 49 · Location 674
 

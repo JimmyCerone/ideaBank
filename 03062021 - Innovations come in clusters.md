@@ -1,0 +1,5 @@
+## Context
+- In [[The Wright Brothers by David]], they innovated in so many areas, from the wing tip controls to the propeller to the motor. 
+
+## Ideas
+- It is my pet theory then that innovation comes in clusters. I seem to recall that [[Steve Jobs by Walter Isaacson]] did the same, as well as the [[The Idea Factory]]. In fact, that was part of Bell Labs MO - that one innovation would necessitate the development of another. This might be in part because [[03062021 - Innovators often look crazy until their ideas come to fruition]]. Given all this time in obscurity, they have the space to come up with new developments. Or perhaps it's because [[03062021 - Side incomes make innovation in other fields possible]], which bring new #Ideas, similar to what's predicted by [[Range]]. It could even be that [[03062021 - The nature of invention has changed in the digital era]] and it was easier back in the day. This rule could no longer hold. 

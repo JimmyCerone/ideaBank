@@ -1,0 +1,11 @@
+## Context
+- Wilbur Wright wrote a letter to his brother in [[The Wright Brothers by David]] talking about how he wasn't cut out for business. 
+
+
+## Reflection
+- This idea resonated so deeply with me because I once wanted to start my own #Business and be an #Entrepreneurship guru. Later, with [[Neil]], I've realized it's not the path I want to take, nor is it one I'm great at. I realized this especially after reading [[The Hard Thing About Hard Things by Ben Horowitz]]. 
+- I fear the second part of the quote, where Wilbur talks about people getting stuck. I'm sometimes afraid I will get stuck in #Computer s. I'm not cut out for it long term. It's a good skill to know and like the brothers, I hope to use it to fund other things I want to do, but I can't get stuck there. 
+
+## Quotes
+> In business, it is the aggressive man, who continually has his eye on his won interest, who succeeds. Business is merely a form of #War fare in which each combatant strives to get the business away from his competitors and at the same time keep them from getting what he already has. No man has ever been successful in business who was not aggressive, self-assertive and even a bit selfish perhaps. There is nothing reprehensible in an aggressive disposition, so long as it is not carried to excess, for such men make the world and its affairs move. I entirely agree that the boys of the Wright family are all lacking in determination and push. That is the very reason that none of us have been or will be more than ordinary businessmen. We have done reasonably well, better in fact than the average man perhaps, but not one of us has as yet made particular use of the talent in which he excels other men. That is why our success has been only moderate. We ought not to have been businessman.
+> There is always a danger that a person of this disposition will, if left to depend upon himself, retire into the first corner he falls into and remain there all his life struggling for bare existence (unless some earthquake throws him out into a more favorable location), where if put on the right path with proper special equipment, he would advance far. Many men are better fitted for improving chances offered them than in turning up the chances themselves.  

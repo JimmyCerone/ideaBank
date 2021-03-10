@@ -1,0 +1,6 @@
+## Context
+- It seems like everyone is complaining of #FakeNews these days and I feel like some make it seem like a new phenomenon. The more #History I read, the more I discover that it has been around forever. 
+
+## Idea
+- Fake news goes all the way back to myths portrayed in the [[The Last Wish by Andrzej Sapkowski]]. People have been telling fake news about werewolves and witches for thousands of years. Part of me wants to say the only thing that has changed is the scale. Yet in [[The Wheel of Time]], there are widespread rumors and many of them competing. It almost seems like fake news competes. There are always many ideas running around and each locale seems to have their own spin on it. I feel like in the past fake news was spread nearly as powerfully even without the internet. So I'm not even sure that it's the scale that is different today. 
+- The real difference between now and before is visibility. Fake news is out there for everybody to see now whereas as previously it was constrained to word of mouth or local newspapers. Though even so, [[Titan The Life of John D. Rockefeller, Sr.]] dealt with national news stories that were fake as well. So did the [[The Wright Brothers by David]], as many claimed they were fakes (kind of ironic).

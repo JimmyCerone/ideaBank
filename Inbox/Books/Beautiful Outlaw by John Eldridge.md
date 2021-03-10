@@ -1,0 +1,1 @@
+A #Book that redid my view on #Christianity and #Jesus. Talked about the #ThirdPath as a concept. 

@@ -1,0 +1,2 @@
+## Context
+- I came across this idea while reading [[The Wright Brothers by David]]. Langley had significant public and private #Investment into his machine. This created great expectation and necessitated another large round to raise enough to retry. The result of this was a limited ability to #Pivot and a higher #Risk. [[Neil]] and I are effectively building this into our project by making tons of small bets, in the spirit of [[Black Swan]], then reinvesting in bets that seem to do well. 

@@ -1,0 +1,2 @@
+## Context
+- [[The Wright Brothers by David]] did all their own mechanical work because it allowed to use #Levers. Basically since they did all the work, they could check the status of their machine while they worked instead of having to do so afterwards. 

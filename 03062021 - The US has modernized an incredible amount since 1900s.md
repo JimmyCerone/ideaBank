@@ -1,0 +1,3 @@
+## Context
+- I realized this while reading [[Titan The Life of John D. Rockefeller, Sr.]], where Pennsylvania was originally the only state in the US to have oil and kerosene was a luxury (mid 1800s). Plus gasoline was considered not useful and just left to runoff into the ground. 
+- Further realized it when reading about [[The Wright Brothers by David]] in the same era, where they almost died getting to Kitty Hawk which didn't have running water and shit in the 1900s. Most of the food was grown there. Just wild. Reminded me of [[Factfulness]], which pointed out general world wide progress in the past 50 or so years. 
