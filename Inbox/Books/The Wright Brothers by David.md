@@ -21,6 +21,8 @@ Read this book with [[Neil]] during February of 2021.
 	- That day Teddy Roosevelt had asked to fly. Luckily he was not permitted to. 
 - Wilbur flew around the Statue of Liberty, which would never be allowed today and must have been great. 
 - They started an airplane company but sold it later. Not sure it went anywhere. 
+	- Sold by Orville after Wilbur died
+- Wilbur died in 1912 at 45 of Typhoid fever.
 
 ## Bike Shop
 - #Bike s were the sensation of their time
@@ -57,6 +59,7 @@ Read this book with [[Neil]] during February of 2021.
 - Weirdly harmonious family life was different from [[Titan The Life of John D. Rockefeller, Sr.]] and [[Genghis Khan and the Making of the Modern World]]. I always thought that important people were forged by great hardship. These two had hardship, but lacked the bitterness and anguish I often see in famous people. 
 	- What drove them? I kept asking myself this, wondering why 2 men would work like dogs without anything driving them? No demons?
 - The brothers did not believe in #OpenSource and took care to keep their designs and progress secret. Why wouldn't they want open source?
+- The brothers were very direct and yet forgiving. Reminds me of [[Joey Dawson]] in a way. Frank, open, and genuine. The time they stuck with Chanute comes to mind. 
 
 ## Questions
 - Why were the brothers anti #OpenSource? What are the pros and cons of it?
@@ -74,11 +77,13 @@ Read this book with [[Neil]] during February of 2021.
 - How often were inventors the one that commercialized their technology?
 - How did we go from their gliders to commercial airliners in 100 years?
 	- Part of it is that once you get to a high enough altitude, you are basically gliding. But still, the question intrigues me. 
-
+- Why were they so impervious to fame?
+	- Reminds me of [[11 Reasons Not to Become Famous - Tim Ferris]]. 
+	> There was no boasting, no preening, no getting too big for their britches, as said, and it was this, almost as much as their phenomenal achievements, that was so greatly admired. 
 
 ## Connections
 - A small quote reminded me of [[Queer Eye]]. When they were on Kitty Hawk, there were no fish even though the lived among fisherman. Same idea as a home builder who's home is always half design (a dude on Queer eye was like this)
 - The brothers struggled to deal with fame and still get work done. It was different back then, I think, but calls to mind [[11 Reasons Not to Become Famous - Tim Ferris]] nonetheless. 
 
 ## Quotes
-> My brother and I do not form 
+> My brother and I do not form many intimate friendships, and do not lightly give them up. 

@@ -8,4 +8,6 @@ Solution:
 - Use the obsidian api to automate the sending of a note. 
 - A really interesting solution would connect all your note sources (like Zapier) and send random notes from them all
 
+#Solved: Remnote / Neurocache
+
 #Notes, #NoteTaking, #Trello, #Obsidian

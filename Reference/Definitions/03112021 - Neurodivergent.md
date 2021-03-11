@@ -1,0 +1,1 @@
+#Neurodiversity is an approach to #Learning and #Disability that argues diverse neurological conditions are result of normal variations in the #Human #Genome.

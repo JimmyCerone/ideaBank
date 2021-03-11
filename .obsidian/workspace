@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e296b468244133ad",
+        "id": "a92575683a122c21",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reference/Definitions/03112021 - Neurodivergent.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "market-price",
+                "query": "hg wells",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference/Definitions/03112021 - Neurodivergent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference/Definitions/03112021 - Neurodivergent.md"
+              }
             }
           }
         ]
@@ -101,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "03102021 - The development of independent journalism and newsletters degrades journalistic integrity.md",
-    "Inbox/Books/Black Swan.md",
-    "Inbox/Books/Untitled.md",
-    "Untitled.md",
-    "03062021 - Small obscure journals can be a fertile source of the early jump.md",
-    "03062021 - Side incomes make innovation in other fields possible.md",
+    "Reference/Definitions/Untitled.md",
     "Reference/Definitions/03092021 - Working Memory.md",
-    "Reference/Companies/Ask Finny.md",
-    "Reference/People/Beyonce Knowles.md",
-    "Reference/People/Chihee Kim.md"
+    "Daily Journal/2021-03-11.md",
+    "03102021 - Some inventions are better left uninvented.md",
+    "Untitled.md",
+    "03102021 - Innovation often creates unintended negative consequences.md",
+    "03102021 - The patent system inhibits innovation.md",
+    "Inbox/Books/The Wright Brothers by David.md",
+    "03102021 - The patent system does not inhibit innovation.md",
+    "03-04-2021 - False perceptions of other's perceptions of you can trap you.md"
   ]
 }
