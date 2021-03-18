@@ -1,6 +1,6 @@
 #Problem: #Discounts are usually false - prices are artificially inflated then dropped
 
-Solution: #ChromeExtension that removes all discounts and forces you to just look at the real price. 
+Solution: #ChromeExtension that removes all discounts and forces you to just look at the real price in #Money. 
 
 Source: [[Cheap - The High Cost of Discount Culture]]
 

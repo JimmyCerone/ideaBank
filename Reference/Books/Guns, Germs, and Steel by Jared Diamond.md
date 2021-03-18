@@ -1,0 +1,1 @@
+A book that attempts to make sense of #History. Specifically attempts to explain why #Europe became a global superpower. 

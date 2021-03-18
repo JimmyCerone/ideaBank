@@ -5,7 +5,7 @@ Solution:
 - Publicly availabled investment decisions
 - Group investment
 
-Solved: 
+#Solved: 
 
 - https://apps.apple.com/app/id1204112719?mt=8
 - https://www.producthunt.com/posts/elon-stocks

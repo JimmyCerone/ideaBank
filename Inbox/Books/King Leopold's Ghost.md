@@ -1,1 +1,0 @@
-A book about the slight of hand of the King of Belgium in the 1800's who made everyone think he was a philanthropist while he was really just plundering the Congo. 

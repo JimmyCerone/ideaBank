@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a92575683a122c21",
+        "id": "a919d4312f7d9ccf",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/Definitions/03112021 - Neurodivergent.md",
+            "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hg wells",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Definitions/03112021 - Neurodivergent.md",
+                "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Definitions/03112021 - Neurodivergent.md"
+                "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md"
               }
             }
           }
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Reference/Definitions/Untitled.md",
-    "Reference/Definitions/03092021 - Working Memory.md",
-    "Daily Journal/2021-03-11.md",
-    "03102021 - Some inventions are better left uninvented.md",
-    "Untitled.md",
-    "03102021 - Innovation often creates unintended negative consequences.md",
-    "03102021 - The patent system inhibits innovation.md",
-    "Inbox/Books/The Wright Brothers by David.md",
-    "03102021 - The patent system does not inhibit innovation.md",
-    "03-04-2021 - False perceptions of other's perceptions of you can trap you.md"
+    "Atomic/Amway Fusion/Issues/Untitled.md",
+    "Atomic/Amway Fusion/Issues/FUS-1720 Bundle items in the Report Table show Local Currency for ABO Price (Inc. Tax) when a different currency is selected.md",
+    "Atomic/Amway Fusion/Issues/FUS-1669.md",
+    "Atomic/Amway Fusion/Issues/FUS-1756 - Update lastModifiedBy and lastModifiedAt fields when editing data in Fusion.md",
+    "Idea Explorers/We only see writers once they are good.md",
+    "Idea Explorers/Untitled.md",
+    "Daily Journal/2021-03-18.md",
+    "202103170919 - NFTs have no limit on supply.md",
+    "202103181213 - Blockchain is a fact protocol that creates scarcity.md",
+    "202103181216 - Blockchain is bad for the environment.md"
   ]
 }

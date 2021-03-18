@@ -1,0 +1,4 @@
+- I was talking with [[Joe Harder]] about cartoons that he was reading. I was trying to figure out how #Reading them could help you learn. I honestly have considered them frivolous up until now, but while reading [[King Leopold's Ghost]], I noticed that much of the ire raised against him was done through #Cartoons. It seems that cartoons, like #Comedy in general, can be a powerful way to make veiled statements to those in #Power you wouldn't be able to other wise. 
+
+## Questions
+- How do those in #China use #Cartoons to critique the #Government? Are they able to? - Line of thinking is from [[The Elephant and the Dragon by Robyn Meredith]]. 

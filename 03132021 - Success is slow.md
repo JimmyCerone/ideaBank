@@ -1,0 +1,1 @@
+Just as [[03132021 - Bad things happen slowly]], success does, too. Sometimes success is even bad, as in the case of [[King Leopold's Ghost]]. Genghis Kahn didn't achieve #Success until he was nearly 50 in [[Genghis Khan and the Making of the Modern World]]. 

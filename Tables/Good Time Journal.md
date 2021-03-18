@@ -5,3 +5,4 @@ Working through testing failure / refactoring | 6 | 4 | n
 Working on the frontend solo | 7 | 2 | n
 Pairing / watching front end updates | 1 | 2 | n
 Writing tests up solo late at night | 9 | 10 | y
+Prepping solo for sprint demo | 9 | 3 | y

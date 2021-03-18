@@ -1,0 +1,2 @@
+## Context
+- Many from #Africa were brought to #Europe to be studied by scientists in [[King Leopold's Ghost]]. #Nazi #Germany did this with the Jews. Long history of bad things done in the name of #Science. 

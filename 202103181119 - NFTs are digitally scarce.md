@@ -1,0 +1,7 @@
+From the #IndieHackers newsletter: https://www.indiehackers.com/post/whats-new-gumroad-s-crowdfunding-campaign-raised-5m-in-24-hours-08fd5086e4?utm_source=indie-hackers-emails&utm_campaign=ih-newsletter&utm_medium=email
+
+> _The background:_ Traditional art is hard to secure, sell, authenticate, store, tokenize, and collateralize. In-game items have weak property rights. Communities have weak alignment.
+
+> NFTs are digitally scarce. They are easier to store, sell, authenticate, collateralize, tokenize, and value, and they have stronger property rights than physical assets.
+
+This seems to be a fair argument, especially on the note of #PropertyRights. I'd never considered the downsides of #Traditional #Art in that it's hard to secure (Goldfinch), authenticate - #Bitcoin is easier / #Blockchain and so on. Fascinating counter to [[202103170919 - NFTs have no limit on supply]] and [[202103170923 - NFTs will become a bubble]] from Seth Godin's article. I think I trust this take more. Godin's article seemed to be reactionary and out of touch and this one seems to be more centered, though Godin's point about the #Environment seems to stand (pending Etherium founder podcast with Tim Ferris). 

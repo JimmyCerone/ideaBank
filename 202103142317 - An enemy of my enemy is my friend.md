@@ -1,0 +1,2 @@
+## Context
+- In [[King Leopold's Ghost]], both #Segregationists and #Abolitionists were on the same side when it came to cleaning up the #Congo. Segregationists worried they couldn't send #AfricanAmericans s back to #Africa if it were known to be bad and everyone else worried because they were normal caring people. 
