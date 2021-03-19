@@ -26,7 +26,9 @@ This unconventional , often infuriating , but deeply productive way of working h
 
 ### Highlight (blue) - Page 7 · Location 150
 
-The Democrats and Republicans in the United States often claim that their opponents don’t know the facts . If they measured their own knowledge instead of pointing at each other , maybe everyone could become more humble . When we polled in the United States , only 5 percent picked the right answer . The other 95 percent , regardless of their voting preference , believed either that the extreme poverty rate had not changed over the last 20 years , or , worse , that it had actually doubled — which is literally the opposite of what has actually happened .
+The #Democrats and #Republicans in the #UnitedStates often claim that their opponents don’t know the facts . If they measured their own knowledge instead of pointing at each other , maybe everyone could become more humble . When we polled in the United States , only 5 percent picked the right answer . The other 95 percent , regardless of their voting preference , believed either that the extreme poverty rate had not changed over the last 20 years , or , worse , that it had actually doubled — which is literally the opposite of what has actually happened .
+
+- Connection: [[03132021 - One of the best ways to hide your villainy is to create another villain]] - both parties use this liberally. 
 
 ### Highlight (blue) - Page 8 · Location 161
 

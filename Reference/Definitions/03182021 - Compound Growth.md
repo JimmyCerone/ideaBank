@@ -1,0 +1,1 @@
+#Growth that grows over time. Most often associated with #Money

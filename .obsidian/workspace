@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a919d4312f7d9ccf",
+        "id": "ea040e1863e416c7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md",
+            "file": "Atomic/Amway Fusion/Issues/FUS-1756 - Update lastModifiedBy and lastModifiedAt fields when editing data in Fusion.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TwentyTwentyOne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 321
   },
   "right": {
     "id": "92abecb38587e8b2",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md",
+                "file": "Atomic/Amway Fusion/Issues/FUS-1756 - Update lastModifiedBy and lastModifiedAt fields when editing data in Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +95,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic/Amway Fusion/Issues/FUS-1892 - BVABO Price (Less Tax) Ratio is not a dropdown for new local items.md"
+                "file": "Atomic/Amway Fusion/Issues/FUS-1756 - Update lastModifiedBy and lastModifiedAt fields when editing data in Fusion.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,15 +108,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Atomic/Amway Fusion/Issues/Untitled.md",
-    "Atomic/Amway Fusion/Issues/FUS-1720 Bundle items in the Report Table show Local Currency for ABO Price (Inc. Tax) when a different currency is selected.md",
-    "Atomic/Amway Fusion/Issues/FUS-1669.md",
     "Atomic/Amway Fusion/Issues/FUS-1756 - Update lastModifiedBy and lastModifiedAt fields when editing data in Fusion.md",
-    "Idea Explorers/We only see writers once they are good.md",
-    "Idea Explorers/Untitled.md",
-    "Daily Journal/2021-03-18.md",
-    "202103170919 - NFTs have no limit on supply.md",
-    "202103181213 - Blockchain is a fact protocol that creates scarcity.md",
-    "202103181216 - Blockchain is bad for the environment.md"
+    "Atomic/Accelerator/Design Series/Untitled.md",
+    "Atomic/Accelerator/Design Series/Meeting for Design Series Feb 26, 2021.md",
+    "Idea Explorers/BBQ sauce is so wasteful because it clings to the bottle.md",
+    "Daily Journal/2021-03-19.md",
+    "Reference/Books/The Elephant and the Dragon by Robyn Meredith.md",
+    "Reference/Podcasts/Untitled.md",
+    "Reference/Podcasts/202103181651 - The Quiet Master of Cryptocurrency.md",
+    "202103181956.md",
+    "03052021 - 5E's format to help understand a customer's journey.md"
   ]
 }

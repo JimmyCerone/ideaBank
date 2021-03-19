@@ -1,0 +1,3 @@
+I think there is a problematic #Assumptions that #Cryptocurrency **IS** #Decentralized, yet there is nothing to guarantee it. It is more easily decentralized than #Traditional #Bank s and it does cut out the middle man, but it is not necessarily decentralized. That said, it's ability to be decentralized is fascinating and leads to great possibilities, both for good and naught. 
+
+Source: [[202103181651 - The Quiet Master of Cryptocurrency]]

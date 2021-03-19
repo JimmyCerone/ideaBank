@@ -177,3 +177,5 @@ New ones from Ryan:
 ## Implementation Hypothesis
 * Use the "isOverriden" flag calculated on the backend when deciding to show a row in override mode
 * Make sure the apollo client gets refreshed with a new value for the "isOverriden" flag whenever the first price point is overridden on a price edit record
+
+#Fusion

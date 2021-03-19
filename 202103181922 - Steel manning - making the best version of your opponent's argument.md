@@ -1,0 +1,3 @@
+Source: [[202103181651 - The Quiet Master of Cryptocurrency]]. 
+
+It's like the opposite of a [[202103181937 - Straw man argument]] and a much better strategy. I believe people like St. Thomas did this as well as Socrates and others. The #Idea is that you understand your opponents #Arguments as well as they do, which gives you tremendous #Empathy and also helps you understand the weak points of their argument. 
