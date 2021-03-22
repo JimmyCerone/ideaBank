@@ -1,0 +1,5 @@
+## Context
+- Once again this idea is from [[Mating in Captivity by Esther Perelle]] which is as I've said many times before, blown my mind. Should be required reading for all couples. Perelle makes such an interesting point here, connecting the hard work, go getter culture of #Americans to the struggles with love life. You can't break #Eroticism down into parts and make it "work", nor can you make sure it keeps working. It is mysterious and unpredictable. Key to it is the recognition of the other person as an independent other. That keeps getting driven home and I'm curious about that idea. 
+
+## Connections
+- [[03132021 - The gospel of enterprise has been used for centuries to demean outsiders]], in addition to outsiders, has hurt our erotic lives. #Eroticism is unpredictable, can't be attained through #Work. It's #Play, which can't be planned. In a weird way, it's like playing with the dogs, it's inefficient, time consuming, and wild. 

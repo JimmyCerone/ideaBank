@@ -1,0 +1,1 @@
+[[Microsoft]]'s version of #Google that pays you to use it and sells your data. 

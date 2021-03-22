@@ -1,5 +1,17 @@
 ## TODO 
-- [ ] Make sure there are test cases for each story requirement
+-  [x] When updating pricing in a sandbox, we need to update:
+    -   lastModifiedBy to the user making those edits.
+    -   lastModifiedAt to now
+-   [ ] When publishing a sandbox, we need to make sure that the following is true:
+    -   Sandbox is not publish
+		-   Previously: 03/22/2021, 6:48:46 PM GMT+5:
+		-   Now: 
+-   [ ] When assigning products to the product hierarchy, we need to update:
+    -   how do I test this? 
+-   [ ] During the Appraise to Fusion bulk load integration, we need to update:
+    -   how do I test this? 
+-  [ ] During the Appraise To Fusion realtime integration, we need to update:
+    -   how do I test this? 
 
 ## Tests
 - [ ] `modules/client/pages/specific-market-rates-and-rules/market-price-ratio/get-market-price-ratio-classification.test.ts`

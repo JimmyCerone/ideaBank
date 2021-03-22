@@ -1,0 +1,1 @@
+Source: https://medium.com/jimmys-ten-cents/how-i-write-everyday-even-though-im-lazy-80e3c0ab1a66

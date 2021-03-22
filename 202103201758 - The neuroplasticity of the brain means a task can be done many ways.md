@@ -1,0 +1,5 @@
+## Context
+- I came across this idea in [[How Bad Do You Want It? by Matt Fitzgerald]] with the story about a man who lost his arm in a roofing accident. Pre-accident, he had been a great wrestler. Post accident, he was depressed and struggling. Then he came upon triathlons and became dominant, developing new "workarounds" as the author calls it to enable him to bike, run, and swim. Another running lost most of her thigh to cancer and then became even faster, even with only 2 muscles in her leg. 
+
+## Idea
+- There are many ways to be great at any one thing. The whole point of [[How Bad Do You Want It? by Matt Fitzgerald]] is to show that there are many ways to be good, many [[202103201743 - Coping skills can be developed]] to improve performance. Barriers and constraints, whether real or artificial encourage the creation of new ways of doing things that are sometimes better than the old ones. The author of [[How Bad Do You Want It? by Matt Fitzgerald]] calls this the "Workaround Effect"

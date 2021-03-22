@@ -1,0 +1,2 @@
+## Idea
+- This is from [[202103182008 - The Evolutionary Angel]] and the idea is that each bad #Habit has many triggers. If you quit many habits at once (drinking and smoking), there are less triggers to fight with. 

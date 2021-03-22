@@ -3,9 +3,10 @@ Steps to Reproduce:
 2. See that BV/ABO (Less Tax) Ratio is an input instead of a dropdown
 
 ## TODO 
-- [ ] Add to the `modules/client/pages/price-edit/__tests__/add-local-sales-item-to-sandbox.test.ts` a test to check which fields are designated (if possible) to check theory
-	- No way to check if it's designated, but it does seem to be the default. Not sure if this is exactly what is happening on the front end. 
-	- [ ] Test front end and check back end as you do. 
+- [x] Add to the `modules/client/pages/price-edit/__tests__/add-local-sales-item-to-sandbox.test.ts` a test to check that the designated fields are null or standard
+- [ ] Fix failing test here: `modules/domain-services/product/__tests__/add-markets-to-product-handler.test.ts`
+	- Seems like the data format coming back drastically changed since we were last in this part of the code base. Why? Was it our changes or something else?
+- [ ] Should we fix all the type errors in `modules/core/market-product-variant/logic.test.ts`
 
 
 Questions: 
