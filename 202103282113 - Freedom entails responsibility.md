@@ -1,0 +1,1 @@
+I see this #Idea fading from the public consciousness. [[03292021 - Cancel Culture]] is an attempt to bring responsibility to the forefront and it's getting ripped apart. It often takes things too far but overcorrections are common in vacuums. It seems that people have forgotten this is a law of sorts and that #Responsibility does come around. 

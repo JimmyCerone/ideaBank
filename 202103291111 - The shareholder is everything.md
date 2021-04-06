@@ -1,0 +1,3 @@
+This is an idea created by Milton Friedman that the goal of a #Public #Company is to maximize shareholder value (often at the expense of employees and customers). This was then picked up by people like McKinsey and used to decimate middle management (and thus the middle class). [[Cheap - The High Cost of Discount Culture]] talks a bit about this...
+
+Source: https://www.forbes.com/sites/stevedenning/2013/06/26/the-origin-of-the-worlds-dumbest-idea-milton-friedman/?sh=699b56a7870e

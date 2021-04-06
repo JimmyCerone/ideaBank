@@ -1,0 +1,3 @@
+From an article by Austin Kleon called "Youth Spies and Curious Elders". The article is all about how to stay curious as you age and mixed in there is this fascinating insight that the future will be unlike anything we can imagine. We think that it will be a twist on today ([[202103261111 - Humans are terrible predictors]]) but it is a new thing. The things that matter to us likely won't matter to our kids. What an interesting concept. 
+
+Source: https://austinkleon.com/2019/04/24/youth-spies-and-curious-elders/

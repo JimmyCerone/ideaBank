@@ -1,3 +1,15 @@
+March 31st, 2021
+
+
+## Questions
+- How to do prof dev? 
+	- Focus on the back end, sql, database, data loaders. 
+- What went well? 
+	- Demo went super well and folks found it helpful. Did a good job of being clear yet letting them ask questions and staying focused. I did a good job of staying focused (new for me).
+- How did you start running dev retro? 
+	- Joe used to run it - split it with her and Andy. 
+
+
 #February 3rd, 2021
 
 Diagramming Tools

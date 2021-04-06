@@ -4,7 +4,7 @@ Steps to Reproduce:
 
 ## TODO 
 - [x] Add to the `modules/client/pages/price-edit/__tests__/add-local-sales-item-to-sandbox.test.ts` a test to check that the designated fields are null or standard
-- [ ] Fix failing test here: `modules/domain-services/product/__tests__/add-markets-to-product-handler.test.ts`
+- [x] Fix failing test here: `modules/domain-services/product/__tests__/add-markets-to-product-handler.test.ts`
 	- Seems like the data format coming back drastically changed since we were last in this part of the code base. Why? Was it our changes or something else?
 - [ ] Should we fix all the type errors in `modules/core/market-product-variant/logic.test.ts`
 

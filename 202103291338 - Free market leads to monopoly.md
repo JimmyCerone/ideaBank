@@ -1,0 +1,1 @@
+I based this idea on what I've read in [[The Idea Factory]] and [[Titan The Life of John D. Rockefeller, Sr.]]. Also, [[Cheap - The High Cost of Discount Culture]] points this out. 

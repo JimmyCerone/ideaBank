@@ -1,0 +1,3 @@
+- I've never considered this, but interesting to buy stocks that pay good dividends (like [[Atomic Object]] stock) and live off of that. Shawn could right now, same with Carl...
+
+Source: https://www.fool.com/investing/general/2011/04/18/the-remarkable-true-story-of-a-146194-per-year-inc.aspx

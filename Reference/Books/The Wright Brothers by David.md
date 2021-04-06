@@ -35,7 +35,7 @@ Read this book with [[Neil]] during February of 2021.
 ## The Dream
 - Yet another twist of tragedy led them towards flight. Orville got typhoid fever and while recovering, Wilbur read him the news about the death of German glider enthusiast Otto Lilienthal. 
 	- The dude was insane, steering with his body and launching himself off cliffs and shit. The brothers learned and mitigated #Risk much better. 
-	- The brothers approached their work with an #Empiricism that reminded me of Taleb in the [[Black Swan]]. 
+	- The brothers approached their work with an #Empiricism that reminded me of Taleb in the [[Black Swan by Nassim Taleb]]. 
 - The brothers correctly identified the #Levers involved in flight:
 	- Skill
 		- To maximize skill, one needed to max out the hours in flight. The best inventors of the day didn't recognize this. 

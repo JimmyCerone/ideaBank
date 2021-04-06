@@ -1,0 +1,1 @@
+There is this #Christian idea that humans are all bad and that some are all good through the spirit. Weird. 

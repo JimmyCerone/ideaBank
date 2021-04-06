@@ -1,0 +1,1 @@
+Founder of [[Neuralink]] and CEO of [[Tesla]] and [[Solar City]]. Involved in [[The Boring Company]] as well. 

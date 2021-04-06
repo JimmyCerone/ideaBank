@@ -4,5 +4,5 @@ Solution: A budget you put things you don't buy in.
 
 Source: Black Swan silent evidence fallacy
 
-Tags: #Money , #Budgeting , [[Black Swan]], #Filters 
+Tags: #Money , #Budgeting , [[Black Swan by Nassim Taleb]], #Filters 
 

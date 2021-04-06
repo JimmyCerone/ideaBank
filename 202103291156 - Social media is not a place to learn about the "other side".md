@@ -1,0 +1,3 @@
+[[The Righteous Mind by Jonathon Haidt]] started this idea and it reflects my decision to [[Choosing to begin curating my social feeds]]. Social Media is a place to explore ideas, but it's not a place to learn about the other side and gain empathy. It's a place to hang out with your tribe. It's like going to the pub and you are welcome to choose to hang out with people you like. As my dad said, it's like milling around a party, you don't go hang out with people you don't like. Building #Empathy like that is better done intentionally and carefully. 
+
+This idea adds color to my idea that [[202103291159 - Social Media is not a tool]]

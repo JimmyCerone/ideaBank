@@ -1,0 +1,1 @@
+The amount of #Energy required to start a reaction in #Chemistry. 

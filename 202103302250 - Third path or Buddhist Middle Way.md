@@ -1,0 +1,1 @@
+I've bounced around this idea forever, starting with [[Beautiful Outlaw by John Eldridge]] and now manifesting in my struggle with #Politics. 

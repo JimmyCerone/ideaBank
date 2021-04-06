@@ -1,0 +1,1 @@
+An #Idea about #Politics from [[Tim Urban]] that I don't particularly agree with. I'm not sure the #Nation is the best idea we will ever come up with politically. I'm not sure it should be the goal. I'm not sure that it isn't the goal, just not sold enough on it to make it the bedrock of my assumptions as Urban does in [[Political Disney World]]

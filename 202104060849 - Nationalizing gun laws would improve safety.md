@@ -1,0 +1,3 @@
+Right now there are a jumble of different jurisdictions surrounding #Gun #Laws so even if you have strict laws in one state, you can go and get guns easily in another. 
+
+What I'm unsure of is where these laws would land in [[202104060852 - Enumerate vs reserved powers]]. There are already laws about interstate gun sales (I think?) but would do the [[202104060850 - Enumerated powers]] allow this? Is this covered in a "well regulated militia"? 

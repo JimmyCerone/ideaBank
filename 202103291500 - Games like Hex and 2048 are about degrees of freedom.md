@@ -1,0 +1,3 @@
+The idea of degrees of #Freedom here is based on #Risk and actually relates quite a bit to a few of my ideas on risk: 
+- [[202103260957 - The more popular you are the more risk you incur]]. The more well known you are for a particular thing, the lower your degrees of freedom. 
+- I wonder if you can make this into a #Game of some sort. Could be a solution to the problem [[Risk is not taken into account in our financial system]]. 

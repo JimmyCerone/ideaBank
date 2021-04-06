@@ -1,0 +1,3 @@
+Fascinating and probably inevitable way to fix [[202103291338 - Free market leads to monopoly]]. That said, some love the free market like [[202103291336 - The Episode of Everything - Balaji on Bitcoin]]. No idea where I land here. How can we have innovation while maintaining good practices? Firmly related to the question [[How Can Free Markets and Privacy Coexist?]]. 
+
+Source: https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/ 

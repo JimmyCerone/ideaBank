@@ -1,0 +1,3 @@
+This idea is connected in a worrying way to [[202103261011 - Knowledge management depends on reads and writes]]. I think that [[Obsidian]] does this well, captures what I remember and the ideas that are important. But fascinating in light of how my brother and I disagree about memories and interesting in light of my pattern of reinventing my #History. 
+
+Source: [[040320211148 - Amy Poehler on the Dax Shepard Podcast]]

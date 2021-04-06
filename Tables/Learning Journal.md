@@ -1,7 +1,7 @@
 | Learning		| Context		| Person / Source?				| Insight 			|
 | :----------: | :----------: | :----------: | :----------: |
 | Navigate files from one's you know using F12 - it's like finding familiar landmarks when you are driving | Atomic Object | Jordan | |
-| OnContextMenu is how you can capture right clicks on the UI | Learned this on [[FUS 1676 - A user can override a price record while price editing - Frontend]] with #AtomicObject  | Lydia | |
+| OnContextMenu is how you can capture right clicks on the UI | Learned this on [[FUS-1676 - A user can override a price record while price editing - Frontend]] with #AtomicObject  | Lydia | |
 | Databases are like homes in that they can be partly functional. There can be leaks (like my A/C) without the whole thing being broken | #AtomicObject | On my own / Lydia, Jordan, & Andy | |
 | Typescript requires that you have a constant when checking for type. Otherwise, the type could change and therefore it can't be guaranteed. If you have a constant, you can use the in keyword to narrow the type and discriminate one type from another.  | #AtomicObject  | Jordan | #Typescript |
 | Bookmarks #PlugIn  in #VSCode allows you to move quickly between points in code | #AtomicObject  | Jordan | I can use bookmarks to move more quickly around my shell |

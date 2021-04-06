@@ -1,0 +1,1 @@
+I think in my head I have the idea that I have to be ridiculously well known to be satisfied in life. Yet, I think after reading [[1000 True Fans]], I could be very happy being well known by a small group of people. Thinking back to the #OregonExtension, that's exactly what it felt like. 

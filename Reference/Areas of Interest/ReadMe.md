@@ -1,0 +1,1 @@
+I envision this as being similar to [[What Intellectual Progress Did I Make in the 2010s?]]. I want to have a few files with focus areas for the future, hopefully connections of nodes of ideas that I can keep track of all in one place. Not sure the structure I want here. I guess I could keep collections of questions here. 

@@ -1,0 +1,1 @@
+This idea comes from [[202103291336 - The Episode of Everything - Balaji on Bitcoin]] and it blew me away. Right now, #Education is binary, with 0 being no degree and 1 being a degree. This locks lots of people out of education - like a high [[032920212344 - Activation Energy]] that keeps people out. 

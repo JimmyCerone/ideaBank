@@ -1,0 +1,1 @@
+#Monopoly is #Profit able because it creates bottle necks. These are not #Efficiency focused, as you can see in [[The Idea Factory]] and [[Titan The Life of John D. Rockefeller, Sr.]]. #Monopoly can create interesting new products because of their lack of #Efficiency. That's actually part of why they are kept around, in the case of AT&T at least. 

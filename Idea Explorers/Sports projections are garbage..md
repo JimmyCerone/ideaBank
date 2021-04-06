@@ -4,7 +4,7 @@
  - The projections for fantasy football were consistently off by greater than 50%. It was worse than #Random.
 
 ## Reflection
-- We are limited in our ability to predict the feature, perhaps best argued by [[Black Swan]]. BUT it seems like ESPN is especially bad. 
+- We are limited in our ability to predict the feature, perhaps best argued by [[Black Swan by Nassim Taleb]]. BUT it seems like ESPN is especially bad. 
 	- There is no accounting for #Risk in player projections. The way to win a fantasy game is to have a few players blow up. That is better than lots of mediocre players. Yet a players variability is compressed into their average points and their projection (which is often way off). 
 	- Sports projects should shift towards #Risk / variability models that attempt to predict variability, not quantity. 
 

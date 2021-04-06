@@ -1,0 +1,5 @@
+The counter to [[202104050901 - Law of diminishing returns]] - in this case your continued investment keeps growing at the same or even a faster rate. This is #Relationship math and I'm not sure it follows the same rules as the #Physical. 
+
+> Of course, all this practice takes effort and discipline. It is not just a matter of being in the mood; it requires patience and sustained attention. The tennis player knows intuitively that growth is rarely linear; she may experience some plateaus and some slowdowns, but the reward is worth the effort. Unfortunately, all too often we associate effort with work, and discipline with pain. But there’s a different way to think of work. It can be creative and life-affirming, sparking a heightened sense of vitality rather than a bone-deep exhaustion. If we want sex to be fulfilling, then we have to apply effort in just this artful way.
+
+Source: [[Mating in Captivity by Esther Perelle]]

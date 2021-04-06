@@ -1,0 +1,1 @@
+Connects deeply to the theme of [[Brain Computer Interface]], which ends up connecting to [[Superintelligence]]. 

@@ -9,7 +9,7 @@ Solution:
 - Great niche 
 
 ** Themes **
-- [[Black Swan]], #Money, #Startups 
+- [[Black Swan by Nassim Taleb]], #Money, #Startups 
 
 ## Investment Heuristics
 1. Invest equal amount of money in every IPO

@@ -1,0 +1,4 @@
+In many circles, especially where [[03132021 - The gospel of enterprise has been used for centuries to demean outsiders]] is at hand, #Pleasure is thought to be sinful. This is in part because [[202103131919 - Christianity and capitalism are deeply intertwined]] and we have this weird thing about hedonism in our culture where it both glorified and vilified. In [[Mating in Captivity by Esther Perelle]], this idea is pushed hard. 
+
+## Connections
+- I think [[Will to Meaning vs Pleasure]] plays a role here. We have such a weird culture because we say we are about meaning, yet chase pleasure. Pleasure is a byproduct of a meaningful life and thus a good thing. Yet we chase it and call it a bad thing. 

@@ -1,0 +1,3 @@
+Based on the #Assumptions that #Crowdsourced data is better than a few experts, which has some support at least from [[Range]]. Though the high #Risk of this approach and the struggles with reviews on sites like [[Yelp]] and [[Amazon]] make me skeptical. Seems surface level smart but is dumb when you look deeper. The unnecessary regulations are interesting though, especially in light of the Vaccine delay and COVID. 
+
+Source: https://www.vox.com/2017/1/14/14276530/balaji-srinivasan-trump-fda-twitter-andreessen-horowitz

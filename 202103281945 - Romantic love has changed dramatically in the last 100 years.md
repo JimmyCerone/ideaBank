@@ -1,0 +1,1 @@
+- #Love has gone from an #Economics #Transactions to one of #Intimacy and #Romanticization. In the past, you weren't expected to get everything from your one partner. Now there are huge expectations placed on the partner (and later on the kids). All this is from [[Mating in Captivity by Esther Perelle]]. 

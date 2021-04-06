@@ -1,0 +1,1 @@
+Source: https://www.npr.org/2019/11/27/783495595/in-the-heat-of-the-moment-how-intense-emotions-transform-us

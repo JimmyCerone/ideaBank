@@ -1,0 +1,1 @@
+You can't know the location and momentum of a particle at the same time. 

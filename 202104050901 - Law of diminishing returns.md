@@ -1,0 +1,3 @@
+The more you #Investment, the less you get per unit of investment. 
+
+This idea is at the root of [[Growth by Vaclov Smil]] in that nothing grows exponentially. Yet I think there may be limits to this. Or at least it only applies to some areas of life (think mediocristan from [[Black Swan by Nassim Taleb]]). My question is, does it apply to relationships, like in [[Mating in Captivity by Esther Perelle]]? Can those grow forever in ways that #Physical things can't?

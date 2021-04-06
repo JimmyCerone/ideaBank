@@ -1,0 +1,2 @@
+## Reflection
+- I've since come to disagree with the extreme ends of this book, but many of the basic ideas are good. The ideas about debt are overwrought, but he is one of the few that seems to acknowledge that [[202103291139 - Debt is risky]]. 

@@ -1,0 +1,2 @@
+## Connections
+- There is some support for this in [[Factfulness]] & [[The Righteous Mind by Jonathon Haidt]] and [[Black Swan by Nassim Taleb]]. More than some support. This idea though is complicated by [[202103261112 - The future is inherently unpredictable]], which I guess some might dispute

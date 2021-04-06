@@ -1,4 +1,4 @@
-An excellent article sent over by Andy to help me as I reviewed the PR from [[FUS 1646 A User can override a price record while price editing backend]]. 
+An excellent article sent over by Andy to help me as I reviewed the PR from [[FUS-1646 A User can override a price record while price editing backend]]. 
 
 Source: https://www.apollographql.com/blog/designing-graphql-mutations-e09de826ed97/
 
