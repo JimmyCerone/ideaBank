@@ -13,3 +13,6 @@ As part of this experiment, I want to change the type of information I consume. 
 I want that question to guide me. I find that I'm often reading because I feel like I have to in order to keep up. I feel like I _must_ learn about #Cryptocurrency and other stuff because everyone else is. I don't want to chase trends because it's not fun and because I think it will hinder my creativity. Running where everyone else does is not going to lead to #Creativity. 
 	
 	
+So after my first week of trying this ([[Week of 04011 to 0418]]) I want to update my rules to saving 7 a week, not reading 7 a week.
+
+The [[03062021 - Levers]] here are the same as [[202103261011 - Knowledge management depends on reads and writes]]. I have little control over the read lever, but tons of control over the "write" lever. The only way to make my article craziness better is to limit the inputs.

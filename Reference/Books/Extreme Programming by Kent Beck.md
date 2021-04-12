@@ -1,0 +1,1 @@
+Book about #Programming we read with [[Atomic Object]] 

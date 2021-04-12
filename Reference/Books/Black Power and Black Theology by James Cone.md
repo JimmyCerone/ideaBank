@@ -1,0 +1,2 @@
+## Connections
+- Lots of these ideas pop up in [[How to Be Antiracist by Ibram X. Kendi]]. I bet many of them are actually sourced here - cool to see their origin though they are interesting in the fact that Cone has them tied to #Religious and Kendi does not.

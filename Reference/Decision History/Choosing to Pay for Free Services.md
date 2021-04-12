@@ -1,0 +1,3 @@
+I'm now paying for Hey from [[Basecamp]] when I could have Gmail for free. I want to keep doing this, slowly replacing online services that are free for paid services (like search engines) because I'd like more privacy. I'd like to pay for [[Obsidian]] as well once the iPhone app comes out. 
+
+I'm also considering pay for media... 

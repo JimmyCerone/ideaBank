@@ -1,0 +1,25 @@
+- Problem when running server
+	- Problem with type checking
+		- TS_NODE_FAST=1 flag before command
+	- Problems running out of memory
+		- https://atomicobject.slack.com/archives/C03G0RE2R/p1617806674086100
+	- Run yarn build
+		- Fix build errors
+	- Run yarn db:migrate:latest
+		- Norwex-with-silver
+	- Run yarn
+	- Rm -rf node_modules
+		- yarn
+	- rm -rf dist
+		- yarn build
+	- Things to do when stuck
+		- What did I do to get here?
+		- What can I do next? 
+		- How can I help others?
+			- Catch up on email
+			- Catch up on Slack
+		- Check Twitter (if nothing else can be done)
+		- Remember [[202104081532 - Value as a consultant is unevenly distributed]]
+	- Long Running Processes
+		- Start at the end of the day (if possible)
+

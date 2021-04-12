@@ -1,0 +1,5 @@
+I'm debating this experiment. I suppose I could try creating a new account (perhaps using the idea explorers one) and see how that feels. That actually seems like a great first step! Maybe I could put that one on my phone and use my personal one on my laptop or vice versa?
+
+Create another Medium profile and try using it to release stories that I don't feel like I can publish elsewhere. Use it to submit to other publications. I actually love this idea. 
+
+This decision was influenced by the idea [[202104080901 - The future of the world is pseudonymous]] from [[202103291336 - The Episode of Everything - Balaji on Bitcoin]]. Also heavily influenced by [[11 Reasons Not to Become Famous - Tim Ferris]], though the idea is tempered by [[Still Alive by Astral Codex Ten]], which shows that even if you are pseudonymous, you can be outed. 

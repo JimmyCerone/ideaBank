@@ -1,0 +1,3 @@
+A scary but promising thought is that ideological #Freedom comes from financial freedom. Runs against the definition of [[040720211225 - Freedom]] from [[Black Power and Black Theology by James Cone]]. Freedom is inward in that definition but in [[202103291336 - The Episode of Everything - Balaji on Bitcoin]] Balaji connects it to resources. You can only be free with enough resources. Not sure I agree with that claim now that I've considered it more. I might even argue that more and more resources might constrain your ideological freedom because you have more to lose (see many billionaires). 
+
+#Wrong 

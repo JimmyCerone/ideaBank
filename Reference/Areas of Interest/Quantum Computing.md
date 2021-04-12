@@ -1,0 +1,1 @@
+A field I've been curious about for a long time yet haven't dove into. I'm hoping to dive in with [[Orbit]] and [[Quantum Country by Andu Mutaschak and Michael Nielson]]. 

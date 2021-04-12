@@ -2,7 +2,7 @@
 - [ ] Create my own environment
 - [ ] Fix type errors in `modules/core/market-product-variant/logic.test.ts`
 - [ ] Fix sku parsing: https://github.com/AmwayEFS/fusion-platform/issues/490
-- [ ] Put together a troubleshooting guide for the project - make this a branching mind map
+- [ ] Put together a troubleshooting guide for the project - make this a branching mind map with plugin
 	- [ ] Yarn
 	- [ ] Yarn build
 	- [ ] yarn db:migrate:latest

@@ -4,16 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c32a9f75f93bfa66",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atomic/Amway Fusion/Tech Time.md",
-            "mode": "source"
+        "id": "030919fb5e516ffa",
+        "type": "split",
+        "children": [
+          {
+            "id": "ee7f5a389833b889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202104120852 - Freedom and justice are interdependent.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "345518bf7c8a2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/April 2021/2021-04-12.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d590b6edbdff5996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202104120847 - Words aren't well defined.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,10 +97,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic/Amway Fusion/Tech Time.md",
+                "file": "Daily Journal/April 2021/2021-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -95,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic/Amway Fusion/Tech Time.md"
+                "file": "Daily Journal/April 2021/2021-04-12.md"
               }
             }
           }
@@ -107,16 +137,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "345518bf7c8a2c9b",
   "lastOpenFiles": [
-    "Atomic/Amway Fusion/Tech Time.md",
-    "Atomic/Amway Fusion/Issues/FUS-1960 - Hierarchy Assignments not publishing with sandbox publish.md",
-    "Daily Journal/April 2021/2021-04-06.md",
-    "202104050907.md",
-    "202104060851 - Reserved powers.md",
-    "202104060852 - Enumerate vs reserved powers.md",
-    "202104060849 - Nationalizing gun laws would improve safety.md",
-    "202104060850 - Enumerated powers.md",
-    "202104060852 - Federal vs reserved powers.md",
-    "202104060850 - Federal powers.md"
+    "Daily Journal/April 2021/2021-04-12.md",
+    "Atomic/Amway Fusion/Issues/FUS-1944 - Edit Products page geography filter not filtering new local products.md",
+    "Atomic/Amway Fusion/Sprint Demo/Items in Review - April 13th, 2021.md",
+    "202104120852 - Freedom and justice are interdependent.md",
+    "202104120852.md",
+    "202104120849 - There is no such thing as black racism.md",
+    "202104120847 - Word aren't well defined.md",
+    "202104120849.md",
+    "202104120847.md",
+    "Reference/Experiments/Limit my consumption of books and articles.md"
   ]
 }

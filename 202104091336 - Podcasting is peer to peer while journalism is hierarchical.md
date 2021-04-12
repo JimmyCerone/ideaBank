@@ -1,0 +1,5 @@
+From [[202103291336 - The Episode of Everything - Balaji on Bitcoin]], this lends more credence to his argument that [[202104091309 - Journalists comprise a separate class in the US]] and that citizen journalists would be best because have worse distribution (and thus better quality - not sure if I buy this in this case [[202104070847 - Founders can choose product quality or distribution]]). 
+
+Balaji thinks podcasts are better because you can't edit them, but I'm not so sure. Once again, #InProgress. 
+
+The idea here is that podcasters have equal ability to distribute, which is a good proxy for power. I actually agree here because [[202103181540 - Power is the key to relieving oppression]] and I have to concede that journalists have more #Power than those they interview because they have better #Distribution . 

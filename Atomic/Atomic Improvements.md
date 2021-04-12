@@ -46,3 +46,5 @@ Why don't we have a systematic, transparent approach for building and assigning 
 - Write blog posts about dev channel
 - Atomic Comic Book
 	- Should have a new edition every year for Atomicon
+- Atomic Writing Workshop
+	- Bird by Bird by Anne Lammot

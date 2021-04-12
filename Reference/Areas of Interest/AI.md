@@ -1,0 +1,1 @@
+Started reading about this with [[Superintelligence]] and have lots of thoughts around it. Naval doesn't think "general" intelligence is a thing at all in [[202103182008 - The Evolutionary Angel]], which i find fascinating and might blow up my whole idea about this. 

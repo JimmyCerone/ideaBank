@@ -1,0 +1,1 @@
+Same underlying concept as [[202104070856 - The future is already here, it's just not evenly distributed]]. When we work at #AtomicObject, some hours are worth next to nothing and others are worth $50,00. It's uneven. 

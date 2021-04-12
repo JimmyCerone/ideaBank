@@ -1,0 +1,1 @@
+I'm not sure I've ever connected these two ideas. What's interesting is that the connections were all there I just didn't make them. In this case, we see that while [[202104120847 - Words aren't well defined]] the relationships between them can be. 
