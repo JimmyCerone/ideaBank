@@ -9,3 +9,4 @@ These are the two #Levers / axis that make up a constructive noncomformist.
 I think using fictional characters would be a good way to go when writing an article about this (and it would make a good article). 
 
 ![[Screen Shot 2021-03-30 at 11.00.19 PM.png]]
+

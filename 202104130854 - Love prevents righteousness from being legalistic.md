@@ -1,0 +1,1 @@
+The example given in [[Black Power and Black Theology by James Cone]] is the Pharisees. They were all about righteousness with little love left over. 

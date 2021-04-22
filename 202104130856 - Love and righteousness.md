@@ -1,0 +1,1 @@
+[[202104130854 - Love prevents righteousness from being legalistic]] and [[202104130855 - Righteousness keeps love from being sentimental]] from [[Black Power and Black Theology by James Cone]]. 

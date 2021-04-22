@@ -1,0 +1,4 @@
+## Reflections
+- The idea is basically that you can create [[042220210850 - Charter Cities]] online. Then you can test out how these different governance strategies work at low cost without accumulating political capital. It's like bringing startups to governance, which is talked about in [[202103291336 - The Episode of Everything - Balaji on Bitcoin]]. I'm skeptical of it because while it seems super disruptive, power mostly stays in the same hands ([[202103131751 - Power imbalances attract those who seek control]])
+
+Source: https://www.indiehackers.com/post/trends-0056-charter-cities-42064056c0?utm_campaign=post-42064056c0&utm_medium=email&utm_source=ih-series-trends-vc

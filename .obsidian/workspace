@@ -4,38 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "030919fb5e516ffa",
+        "id": "60c11686d3e4acf0",
         "type": "split",
         "children": [
           {
-            "id": "ee7f5a389833b889",
+            "id": "240d3cca8f867bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202104120852 - Freedom and justice are interdependent.md",
+                "file": "Atomic/Meetings/Product Development Talk with Matt Fletcher.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "345518bf7c8a2c9b",
+            "id": "1173fae2f8d7b65c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Journal/April 2021/2021-04-12.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d590b6edbdff5996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202104120847 - Words aren't well defined.md",
+                "file": "Daily Journal/April 2021/2021-04-22.md",
                 "mode": "source"
               }
             }
@@ -68,13 +57,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retri",
+                "query": "tag:#Problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "acad7194fc8edccc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/April 2021/2021-04-12.md",
+                "file": "Daily Journal/April 2021/2021-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,29 +122,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/April 2021/2021-04-12.md"
+                "file": "Daily Journal/April 2021/2021-04-22.md"
               }
+            }
+          },
+          {
+            "id": "413a4b9a9df190bd",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "345518bf7c8a2c9b",
+  "active": "1173fae2f8d7b65c",
   "lastOpenFiles": [
-    "Daily Journal/April 2021/2021-04-12.md",
-    "Atomic/Amway Fusion/Issues/FUS-1944 - Edit Products page geography filter not filtering new local products.md",
-    "Atomic/Amway Fusion/Sprint Demo/Items in Review - April 13th, 2021.md",
-    "202104120852 - Freedom and justice are interdependent.md",
-    "202104120852.md",
-    "202104120849 - There is no such thing as black racism.md",
-    "202104120847 - Word aren't well defined.md",
-    "202104120849.md",
-    "202104120847.md",
-    "Reference/Experiments/Limit my consumption of books and articles.md"
+    "Daily Journal/April 2021/2021-04-22.md",
+    "Daily Journal/April 2021/Week of 04-17-2021 to 04-23-2021.md",
+    "Reference/Newsletters/Untitled.md",
+    "Reference/Newsletters/Surveillance Today.md",
+    "Atomic/Meetings/Product Development Talk with Matt Fletcher.md",
+    "Reference/Definitions/042220211218 - Design Thinking.md",
+    "Reference/Definitions/042220211218 - Design.md",
+    "202104221224 - The knowledge funnel moves us from mystery to algorithm.md",
+    "202104221224.md",
+    "Reference/Definitions/042220211218 - Art.md"
   ]
 }

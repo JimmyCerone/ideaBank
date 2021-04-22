@@ -1,0 +1,1 @@
+#ScreenSharing company like [[Tuple]] except it's got a nice free experience. Formerly Screen and same founder as person who made Screenhero, which was acquired and killed by [[Slack]].

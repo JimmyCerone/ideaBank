@@ -1,0 +1,1 @@
+Wild connections with #OregonExtension - just a few hours away. 60% of US weed is grown here. Right by Eureka, which made it scary to imagine how close we were to it while in Oregon, while all this craziness was still going on. Fascinating overlay on top of the craziness that is rural Oregon - mix of hippies and hard folks. 

@@ -1,0 +1,14 @@
+- Product Development requires a visionary
+	- Visionary continually produces ideas
+		- Visionaries often struggle to express and execute ideas
+- Startup Structure
+	- Visionary with endless amounts of ideas
+	- Operational person who can execute on ideas
+- [[Lean Startup]]
+	- Experimentation and iteration
+	- Favors quantity over quality - finds ways to test the visionaries ideas in the market. 
+		- [[Black Swan by Nassim Taleb]] esque because you make lots of small bets. 
+	- How do we cheaply learn as much as possible as quickly as possible? 
+- Lean startup is connected deeply to design thinking, which is often misused because [[202104120847 - Words aren't well defined]].
+	- Matt's definition is [[042220211218 - Design Thinking]].
+

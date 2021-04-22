@@ -4,7 +4,7 @@
 
 # Goals
 - Write 1 spin article and 1 personal article this month
-- Worked 15 minutes daily
+- Worked out 15 minutes daily
 - Continue meditation practice
 
 # Books

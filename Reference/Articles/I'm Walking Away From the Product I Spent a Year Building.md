@@ -1,0 +1,7 @@
+## Reflection
+- What I find interesting here is a new kind of #Startup problem that I haven't seen before. He had customers who wanted his product (big companies) but they only wanted it once it was built out. Maybe this is where #VC comes in?
+	> In hindsight, I took on an unreasonably audacious endeavor with Level in part because of my internal “this _might_ get big if I play my cards right” dialogue. It would have been far better to either deliberately go for the big idea (and probably seek venture funding to make it happen), or start far smaller and build my way into a sustainable company of one.
+- Fascinated by how he used data to test his startup though I have to wonder if he'd had an approach like ours if we would have seen the flaws more quickly? Do [[Neil]] and I have a solution here?
+	> Having robust filtering criteria is ideal when making hard decisions. I’m happy to be discovering my constraints early on before I find myself years into running a business that doesn’t fit me, and I wind up hating my job. I only wish I had this much clarity a year earlier, but you know what they say about hindsight.
+
+Source: https://www.derrickreimer.com/essays/2019/05/17/im-walking-away-from-the-product-i-spent-a-year-building.html

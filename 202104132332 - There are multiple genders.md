@@ -1,0 +1,2 @@
+## Reflections
+- While most people agree on the fact that there are 2 #Gender s in #American #Cultures, there are a whole host of genders in other cultures, from #Lakota to [[Asia's Isle of Five Separate Genders]] and the nonbinary community in #America. 

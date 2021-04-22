@@ -9,3 +9,5 @@ Problem: Meetings require just enough attention to stop you from doing useful th
 Solution: #Zoom extension that lets you know when your name is mentioned 
 
 - The same tech as Siri or Amazon it's just that you get to pick the name. 
+
+#Solved: https://www.meetforme.com/

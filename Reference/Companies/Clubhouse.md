@@ -1,0 +1,1 @@
+#Synchronous #Audio platform. Now everyone from [[Facebook]] to [[Reddit]] are copying it. 

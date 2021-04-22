@@ -11,6 +11,10 @@ Why don't we have a systematic, transparent approach for building and assigning 
 - How does this process work right now? How are decisions made? Where does the information come from? CDMs?
 - How does our current process #Scale?
 
+## Slack
+- Could use improvement on how we use [[Slack]] in light of [[202104200859 - Chat is a greedy form of communication]].
+> An engineer at Stripe told me about their careful balance of email, forums, and Slack. They recognize that Slack is not suitable for meaningful conversations, so they automatically delete chat messages older than a few weeks to discourage relying on it for long-term archival. In retrospectives, team members often reflect on whether they chose the right medium (email, chat, or forum) for various conversations.
+
 
 ## Questions
 
@@ -48,3 +52,8 @@ Why don't we have a systematic, transparent approach for building and assigning 
 	- Should have a new edition every year for Atomicon
 - Atomic Writing Workshop
 	- Bird by Bird by Anne Lammot
+
+
+## Questions
+- What if the value of the Atomic braintrust is external? At first I was so focused on capturing the value internally, but what if it is a subset of the teach and learn philosophy? 
+	- The conversation I had with Jonah Bailey sparked this: ![[Screen Shot 2021-04-16 at 5.29.36 PM.png]]
