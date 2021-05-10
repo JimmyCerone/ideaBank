@@ -5,6 +5,7 @@
     "children": [
       {
         "id": "3195812aa740b158",
+        "id": "65d0d696e6e13dd4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -60,6 +61,51 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+        "id": "53717e57dd407ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c0d62c67fd5a6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b55fde810c60b5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "573791183c066454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "413a4b9a9df190bd",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
           }
         }
       }
@@ -67,4 +113,17 @@
   },
   "active": "3195812aa740b158",
   "lastOpenFiles": []
+  "active": "65d0d696e6e13dd4",
+  "lastOpenFiles": [
+    "Chat is greedy.001.jpeg",
+    "202104200859 - Chat is a greedy form of communication.md",
+    "Daily Journal/May 2021/2021-05-10.md",
+    "Reference/Books/Switch - How to Change Things When Change is Hard by Dan and Chip Heath.md",
+    "Chat is greedy/Chat is greedy.001.jpeg",
+    "202105081923 - To tweak a behavior make it easier to do or harder not to do.md",
+    "202105081923 -.md",
+    "Reference/Definitions/Untitled.md",
+    "Reference/Definitions/032920212323 - Crucial Conversation.md",
+    "Reference/Companies/Atlassian.md"
+  ]
 }
