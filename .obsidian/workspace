@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60c11686d3e4acf0",
-        "type": "split",
-        "children": [
-          {
-            "id": "240d3cca8f867bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic/Meetings/Product Development Talk with Matt Fletcher.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1173fae2f8d7b65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal/April 2021/2021-04-22.md",
-                "mode": "source"
-              }
-            }
+        "id": "696eef66a530704c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Journal/May 2021/2021-05-10.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -57,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Problem",
+                "query": "greedy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/April 2021/2021-04-22.md",
+                "file": "Daily Journal/May 2021/2021-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -122,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Journal/April 2021/2021-04-22.md"
+                "file": "Daily Journal/May 2021/2021-05-10.md"
               }
             }
           },
@@ -134,24 +116,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "1173fae2f8d7b65c",
+  "active": "696eef66a530704c",
   "lastOpenFiles": [
-    "Daily Journal/April 2021/2021-04-22.md",
-    "Daily Journal/April 2021/Week of 04-17-2021 to 04-23-2021.md",
-    "Reference/Newsletters/Untitled.md",
-    "Reference/Newsletters/Surveillance Today.md",
-    "Atomic/Meetings/Product Development Talk with Matt Fletcher.md",
-    "Reference/Definitions/042220211218 - Design Thinking.md",
-    "Reference/Definitions/042220211218 - Design.md",
-    "202104221224 - The knowledge funnel moves us from mystery to algorithm.md",
-    "202104221224.md",
-    "Reference/Definitions/042220211218 - Art.md"
+    "Daily Journal/May 2021/2021-05-10.md",
+    "Reference/Books/Switch - How to Change Things When Change is Hard by Dan and Chip Heath.md",
+    "Chat is greedy/Chat is greedy.001.jpeg",
+    "202105081923 - To tweak a behavior make it easier to do or harder not to do.md",
+    "202105081923 -.md",
+    "Reference/Definitions/Untitled.md",
+    "Reference/Definitions/032920212323 - Crucial Conversation.md",
+    "Reference/Companies/Atlassian.md",
+    "Idea Explorers/Jira is impossible to search.md",
+    "Reference/Companies/Untitled.md"
   ]
 }

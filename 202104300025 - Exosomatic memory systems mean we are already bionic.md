@@ -1,0 +1,5 @@
+## Reflections
+- I forget where I first heard this but it recurred in the context of Memnav on [[Psionica]]. The idea is that since [[Humans have limited memories]], we have long since been augmenting them. [[202103310945 - Humans use brain computer interfaces right now (they just aren't implanted)]] is the superset of this idea, which has interesting implications for how we might consider something like [[Neuralink]]. What's interesting about this is that we lose many [[03062021 - Levers]] when we outsource our memory because it essentially becomes limitless ([[Limit my consumption of books and articles]]). As I've seen, this is not always good. 
+- Further, we must consider how all this is affected by [[03092021 - Knowledge is only useless when you can't retrieve it]] and [[202103261011 - Knowledge management depends on reads and writes]]. 
+
+Source: 

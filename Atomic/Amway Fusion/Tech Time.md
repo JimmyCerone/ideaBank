@@ -1,19 +1,20 @@
 - [ ] Fix Joe's environment
+- [ ] Convert report.ts and stories.ts tests to cypress
 - [ ] Create my own environment
 - [ ] Fix type errors in `modules/core/market-product-variant/logic.test.ts`
 - [x] Fix sku parsing: https://github.com/AmwayEFS/fusion-platform/issues/490
 - [x] Put together a troubleshooting guide for the project - make this a branching mind map with plugin
-	- [ ] Yarn
-	- [ ] Yarn build
-	- [ ] yarn db:migrate:latest
-	- [ ] killall node
-- [ ] Memory Issue Fix
+	- [x] Yarn
+	- [x] Yarn build
+	- [x] yarn db:migrate:latest
+	- [x] killall node
+- [x] Memory Issue Fix
 	- Building the server is what runs out of memory
 	- `server.config.js`
 		- `scriptentry`
 		- `lambdaentry`
 		- Build all scripts
-- Problem probably lies with the shared scripts
+	- Problem probably lies with the shared scripts
 	- when doing a `yarn build` we don't have to build every single script
 		- split scripts directory into two camps
 			1. Essential scripts

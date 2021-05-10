@@ -1,0 +1,4 @@
+## Reflections
+- I've seen this time and time again, yet people still create structures and say they won't be abused because the people in them are trustworthy and "logical". Yet as [[Nudge]] and [[The Righteous Mind by Jonathon Haidt]] show us, we are rarely either of those things. In fact, [[202103131751 - Power imbalances attract those who seek control]] so even if the structures aren't abused now, they find people to abuse them - see [[If I Were an Abuser, What Church Would I Want to Attend]]. We see this happening right now at [[Google]] and elsewhere in the [[202104222235 - Machine learning builds in power disparities]]. Part of the problem is that [[202104222250 - Our tools create our reality]] and these tools give improper amounts of power to single entities. 
+
+Source: [[Coded Bias]]

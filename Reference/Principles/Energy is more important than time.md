@@ -1,0 +1,1 @@
+Laid out in more depth [[202105051703 - We aren't limited by time we are limited by energy]].

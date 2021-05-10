@@ -1,0 +1,2 @@
+## Reflections
+- [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] steals this concept from [[The Righteous Mind by Jonathon Haidt]]. Making analytical arguments helps people understand what to do (where to go / direction) but it doesn't tell them why. This is in part why [[Start with Why by Simon Sineck]] was such a sensation is because it recognized this fact, though it didn't acknowledge the corollary - [[202105051417 - Aiming at the Elephant gives motivation but no direction]]

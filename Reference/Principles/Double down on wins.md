@@ -1,0 +1,1 @@
+Laid out more here: [[202105051642 - Double down on wins - spend your energy doing more on what's working]]. Reminds me of [[Sam Neidermann]].

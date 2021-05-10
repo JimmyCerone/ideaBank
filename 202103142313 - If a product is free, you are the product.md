@@ -4,3 +4,6 @@
 
 ## Connections
 - Part of the proof that [[03062021 - Business is a war that not everyone is cut out for]] is the fact that things are given out for free to put others out of #Business (thing #Gmail)
+
+## Example
+- This business model is quite sketchy because users aren't aware of their status as the product, and most companies want to keep it that way: https://www.zdnet.com/article/facebook-threatens-to-make-ios-users-pay-please-do-it-mr-zuckerberg/.

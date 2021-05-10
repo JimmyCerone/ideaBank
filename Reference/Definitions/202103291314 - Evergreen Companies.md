@@ -1,5 +1,5 @@
 ## Context
-- Learned about this via the Tugboat Institute guy who was brought in by [[Atomic Object]] and is closely connected with [[Carl Erickson]] and his greatnotbig.com site. After the talk I wrote about it in a post. 
+- Learned about this via the Tugboat Institute guy who was brought in by [[Atomic Object]] and is closely connected with [[Reference/People/Carl Erickson]] and his greatnotbig.com site. After the talk I wrote about it in a post. 
 
 ## Story
 Today I had the chance to hear [Dave Whorton,](https://www.linkedin.com/in/davewhorton) founder of the [Tugboat Institute,](https://www.tugboatinstitute.com/) about Evergreen companies. Evergreen #Companies ascribe to the 7Ps, which are described as follows on their website.

@@ -1,0 +1,3 @@
+> In human culture, we like to think of breakthrough ideas as sudden accelerations on the timeline, where a genius jumps ahead fifty years and invents something that normal minds, trapped in the present moment, couldn’t possibly have come up with. But the truth is that technological (and scientific) advances rarely break out of the adjacent possible; the history of cultural progress is, almost without exception, a story of one door leading to another door, exploring the palace one room at a time. – [Steven Johnson, Where Good Ideas Come From](https://sirupsen.com/books/where-good-ideas-come-from/)
+
+From [[How We Got to Now by Steven Johnson]] & https://sirupsen.com/adjacent-possible/

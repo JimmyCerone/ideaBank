@@ -1,0 +1,60 @@
+## Intro
+- My rock is to get involved with the startup community and my BHAG is to judge a startup competition. 
+
+## Questions
+- Who are the best organizations in town? 
+	- Start Garden is probably the most active.
+	- CEI
+		- Sharoque Runs this at Grand Valley University
+	- What is the best way to plug in with each of them?
+		- Lots of connections on the funding side.
+- What's your involvement with the startup communities in the area?
+- How did you get involved? How have others done it successfully?
+- What is your 100 year vision for [[Atomic Object]]?
+	- Considered this question in 2017 and 2018. 
+		- Distinction between commercial purpose and true purpose.
+			- Alcoa 
+				- Commerical make steel
+				- True be safe
+			- Atomic
+				- Commercial = Make great custom software
+					- Likely to be disrupted and doesn't include the whole company. Boils down to "be the best"
+				- True Purpose = Source & Force
+					- [[The Infinite Game by Simon Sinek]] inspired this.
+						- Leaves space to have goals within this (destination from [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]]). 
+							- Current goal is to have 5-10 offices in the next X years. 
+								- Two ways to accomplish this:
+									- Figure out how many locations can support Atomic without being too big
+										- Indianapolis and Cincinnatti but not NY
+										- Between GR size and 2 million people
+										- Not that many. 
+										- Goal is to have 50% of the work coming from local market
+									- Ask Atoms who are interested in moving where they want to move
+										- Work from filtered down list to see who is interested in Atomic's services. j
+									- Build national brand then dive down to smaller markets
+										- Only a few thousand people interested in a book that Atomic would publish because it would hit folks with 5-7 years of experience
+										- You could use GNB as a bouncing off point
+					- Source means:
+						- We want people to be respected for who they are, have friends, feel welcome.
+					- Force means: 
+						- Engage with the community. 
+- What do you think about the Atomic brain? 
+	- Bring up [[Obsidian]] and networked thought. 
+	- Our business model is renting access to the Atomic Braintrust for a set period of time
+	- Very hard to figure out how to do this efficiently
+		- Sharing ideas is hard and we use:
+			- Slack
+			- Spin
+			- Get together
+			- Punch It
+				- If you annotated a project with what technologies were involved you could determine who was a subject matter expert. 
+					- Include libraries
+						- Could identify security vulnerabilities
+				- Could be used for the company to guide professional development
+					- Help people develop a niche
+					- Self organizing because people can just do that.
+				- Could be used to help with marketing
+	- Knowledge Management Problem
+		- Tried to use a Wiki
+			- Gives you nice ability to use hyperlink connections and requires that people are committed to taking the time to maintain it. 
+				- Work like this is important but not urgent and it's unclear how it helps the company

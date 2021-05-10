@@ -1,4 +1,47 @@
-Conversation February 23rd, 2021
+## Conversation April 23, 2021
+
+- Investing a set amount yearly to build out the Atomic brand. Basically build out an Atomic Accelerator for Startups. 
+- National Ambassador 
+	- Inverts the funnel - business development
+		- Book
+		- Talks
+
+![[Screen Shot 2021-04-24 at 10.58.54 AM.png]]
+
+![[Screen Shot 2021-04-24 at 11.16.23 AM.png]]
+
+- Startups in the Grand Rapids Region
+	- Different than other areas of the country
+	- There are layers here, it could be intepreneurship on entrepreneurship
+	- First layer is bringing a new product to market
+		- Our teams do well when the problem is well defined and the solution isn't
+			- If you have a known problem and a known solution you should buy a Saas Product
+			- If you have a known problem and an unknown solution we are a great fit. 
+		- We are ill suited to serve a startup with little cash and no Product Market Fit.
+			- We do badly with a Biz minded founder who wants a technical Co-Founder and work for free.
+	- The people who are most valuable are enterprises there. 
+		- They have $ to throw at people & want to develop it. 
+		- Or they are trying to look out for companies to acquire. So you could end up watching what they are doing and where they are going. 
+		- If you can find the chief innovation officer or the CTO for these companies, those are the people to rub shoulders with. 
+			- My goal is to watch what they are watching. 
+	- For Startups, feel free to give great advice. 
+		- They are probably not a fit. 
+	- Looking at our financials, we burn like $20K a week. If someone is being funded at $500K and above we could be a fit. 
+	- It's like a three way game here
+		- Enterprise
+		- Startups
+		- Atomic
+			- We are at the intersection of all those 3, unless the startup has lots of $. 
+		- Minimum engagement is like $60K - 80K
+			- 2 weeks front end
+				- Refining the plan, establishing framework, building out backlog
+			- 3 weeks wrap up 
+				- Hand off and polish
+		- Another layer here is on the MP
+			- The ratio of DL/TL to project is off when you are doing lots of small projects for startups. The project portfolio shifts and stretches here. 
+		
+
+## Conversation February 23rd, 2021
 
 ### Ideas
 - Thinks of the day as a crescendo from less to more social and more creative to more mundane. 

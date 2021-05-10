@@ -1,0 +1,4 @@
+## Reflections
+- Machine learning is biased because of Cathy O'Neil's definition, [[042220212143 - Machine Learning]]. Further, as Naval pointed out when arguing against general [[AI]] as a concept, [[202103211307 - Machine learning faces the same limits as human learning - environment is everything]]. Put differently, [[202104222140 - Data is a reflection of our history]] and one of the primary [[03062021 - Levers]] for AI. What we really have in machine learning is the same inductive reasoning that causes problems in other areas ([[202104211317 - Inductive reasoning is often misused when addressing systemic problems]]), codified as "facts". 
+
+Source: 

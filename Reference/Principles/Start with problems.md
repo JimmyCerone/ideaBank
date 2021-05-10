@@ -1,0 +1,1 @@
+A principle [[Neil]] and I stumbled on while reading [[How to Get Startup Ideas by Paul Graham]].

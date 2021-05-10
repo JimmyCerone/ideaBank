@@ -1,3 +1,8 @@
+- Are we rounding retail price less tax on the Price Edit page? 
+	- If we do, we should not because we want all prices that deal with taxation to be exact. The rounding rule for retail price less tax should be nearest. 
+	- The rounding rule is nearest, but the round amount is 1.00 instead of 0.01
+		- Why did this change? 
+
 https://jira.amway.com:8443/browse/FUS-1951
 
 https://jira.amway.com:8443/browse/FUS-1948

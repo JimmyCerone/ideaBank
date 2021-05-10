@@ -1,0 +1,1 @@
+A book that seems like [[Nonviolent Communication]] and [[Crucial Conversations by Patterson and Company]].

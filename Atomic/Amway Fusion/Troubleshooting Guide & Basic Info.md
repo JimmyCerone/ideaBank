@@ -61,3 +61,14 @@
 				- `post-migrate` is essential
 			2. Useful scripts (db-setup stuff)
 				- These are in a separate command called `yarn build scripts`
+
+
+## Domain vs. Record
+- Usually we have these mirror each other. 
+- Records layer is how we model things in the db
+	- Has to reflect the database
+	- Data loaders would go here - it worries about caching and stuff
+- Domain entity is how we model these things for the business team. 
+	- Does not have to reflect the database
+	- Changes to business language would happen first here. 
+	- Start here, then move to the record layer

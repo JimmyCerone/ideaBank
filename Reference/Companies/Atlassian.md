@@ -1,0 +1,1 @@
+I have a friend that works there from #StartupSummer and they make Trello and Jira.

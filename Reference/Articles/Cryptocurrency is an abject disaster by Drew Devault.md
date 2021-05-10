@@ -1,0 +1,1 @@
+Fascinating article that contributes to my growing disillusionment with #Cryptocurrency  and influences my [[How Can or Should I Get Involved in the Crypto Space?]] thoughts. I'm leaning towards not getting involved at this point, though I'm not quite there yet. Will it be the future? I'm not sure. There was an underbelly to it all I was less than aware of. 

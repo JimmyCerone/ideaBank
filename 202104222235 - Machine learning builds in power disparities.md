@@ -1,0 +1,4 @@
+## Reflections
+- As Balaji said about media in [[202103291336 - The Episode of Everything - Balaji on Bitcoin]], when people are not peer to peer ([[202104091336 - Podcasting is peer to peer while journalism is hierarchical]]), bad things happen. [[AI]] is not generally peer to peer. One company makes the #Tech and then deploys it on other people, who rarely have any way to hold the tech accountable because it is presented as unbiased. The problem here is that [[202104140847 - Love without power is sentimental]]. More specifically, we see that [[202103142218 - Small groups of people can indirectly influence more powerful people through levers]]. What's really bad is that some of these AI models are getting built into laws, which we've already seen that [[202103131649 - Laws can be used violently by the majority or those in power]]. 
+
+Source: 

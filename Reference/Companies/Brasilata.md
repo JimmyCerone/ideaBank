@@ -1,0 +1,4 @@
+- A can manufacturer that is super innovative. Mention in [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] for how they built a process for surfacing innovations. 
+	- Have a profit sharing program
+	- No dismissal policy
+	- Everyone is called an inventor and submits 150 ideas a year

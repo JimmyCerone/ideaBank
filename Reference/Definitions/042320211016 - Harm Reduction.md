@@ -1,0 +1,1 @@
+A way of viewing #Risk I first came across in [[Dopesick by Beth Macy]]. In a way, very similar to the [[042220210856 - Secretary Problem]] in that waiting around for a perfect solution can lead you to a bad one. The idea is that it's better to reduce harm than try & fail to eliminate it. 

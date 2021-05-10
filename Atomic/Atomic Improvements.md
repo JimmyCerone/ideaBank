@@ -29,8 +29,10 @@ Why don't we have a systematic, transparent approach for building and assigning 
 
 ## Projects
 - Slack plug in that automatically surfaces past knowledge in past discussions and blogs
+- Change the break culture at Atomic using principles from [[The Power of Habits by Charles Duhigg]] and [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]]
 - Annotate Spin blog and turn that into a graph for people to see
 	- Especially look into series of blog posts about the sales process & how Atomic does projects
+	- Think about modeling Atomic after Starbucks, whose training program is so rigorous it can be counted for college credits. 
 	- Organize this by person. Index every person's blogs and see where they connect. 
 - Google form that crowd sources what tools people use at Atomic for a spin post
 - Create an organization graph from the periodic table with LinkedIn profiles
@@ -57,3 +59,15 @@ Why don't we have a systematic, transparent approach for building and assigning 
 ## Questions
 - What if the value of the Atomic braintrust is external? At first I was so focused on capturing the value internally, but what if it is a subset of the teach and learn philosophy? 
 	- The conversation I had with Jonah Bailey sparked this: ![[Screen Shot 2021-04-16 at 5.29.36 PM.png]]
+- How can we make people at atomic to feel enough to change from [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] & [[The Power of Habits by Charles Duhigg]]?:
+	- blogging
+	- Staying colocated
+	- Taking breaks 
+	- Ideas:
+		- Live music
+		- Dad to dj 
+		- Bring the bar to atomic
+		- Do education better than anyone else
+		- Provide childcare
+		- Themed events that are consistent 
+		- Dog park

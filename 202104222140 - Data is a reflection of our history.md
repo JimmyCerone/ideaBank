@@ -1,0 +1,4 @@
+## Reflections
+- The problem I wrote about earlier, [[202104211317 - Inductive reasoning is often misused when addressing systemic problems]]. Data is not truth, but a reflection of #History. We have to go a level deeper, looking at second order consequences like [[Principles by Ray Dalio]] talks about. In some ways, this is another form of [[03-03-2021 - Our language creates our reality]]. Not so different than colonizers controlling the narrative which reminds me about books like [[A People's History of the United States by Howard Zinn]] and [[A People's History of Computing by Joy Lisi Raskin]]. 
+
+Source: [[Coded Bias]]
