@@ -1,25 +1,27 @@
 {
   "main": {
-    "id": "97056ac745d0cc48",
+    "id": "ede32ea8a390e678",
     "type": "split",
     "children": [
       {
-        "id": "3195812aa740b158",
+        "id": "8b93168c8f4b7956",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Chat is greedy/Chat is greedy.001.jpeg"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ab661204ed8a3d86",
+    "id": "77ae0eeb58842b26",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "33b573c2c8c8d232",
+        "id": "164619c8a3568970",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -27,7 +29,7 @@
         }
       },
       {
-        "id": "c6cfab115390a096",
+        "id": "e1e9bec8e00a25cb",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -44,15 +46,16 @@
     ]
   },
   "right": {
-    "id": "0ea83928a1a3e9f5",
+    "id": "6adfa2c35eddacdc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cab391b9e2299918",
+        "id": "02fc9dff78cf4dd9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Chat is greedy/Chat is greedy.001.jpeg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -65,6 +68,8 @@
       }
     ]
   },
-  "active": "3195812aa740b158",
-  "lastOpenFiles": []
+  "active": "8b93168c8f4b7956",
+  "lastOpenFiles": [
+    "Chat is greedy/Chat is greedy.001.jpeg"
+  ]
 }
