@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "36ba84743f39dc70",
+        "id": "65d0d696e6e13dd4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36ba84743f39dc70",
+  "active": "65d0d696e6e13dd4",
   "lastOpenFiles": [
+    "Chat is greedy.001.jpeg",
     "202104200859 - Chat is a greedy form of communication.md",
     "Daily Journal/May 2021/2021-05-10.md",
     "Reference/Books/Switch - How to Change Things When Change is Hard by Dan and Chip Heath.md",
@@ -127,7 +128,6 @@
     "202105081923 -.md",
     "Reference/Definitions/Untitled.md",
     "Reference/Definitions/032920212323 - Crucial Conversation.md",
-    "Reference/Companies/Atlassian.md",
-    "Idea Explorers/Jira is impossible to search.md"
+    "Reference/Companies/Atlassian.md"
   ]
 }
