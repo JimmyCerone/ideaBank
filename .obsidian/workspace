@@ -1,66 +1,72 @@
 {
   "main": {
-    "id": "97056ac745d0cc48",
+    "id": "b5487a6669cb2f26",
     "type": "split",
     "children": [
       {
-        "id": "3195812aa740b158",
-        "id": "65d0d696e6e13dd4",
+        "id": "31c284f632af486f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202104200859 - Chat is a greedy form of communication.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ab661204ed8a3d86",
-    "type": "mobile-drawer",
+    "id": "753c64a5e96ea4b7",
+    "type": "split",
     "children": [
       {
-        "id": "33b573c2c8c8d232",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "c6cfab115390a096",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d3a970ad7ce28c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99fdf5658e623abc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52e16ff64127778c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "feedback",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acad7194fc8edccc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 321
   },
   "right": {
-    "id": "0ea83928a1a3e9f5",
-    "type": "mobile-drawer",
+    "id": "92abecb38587e8b2",
+    "type": "split",
     "children": [
       {
-        "id": "cab391b9e2299918",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
         "id": "53717e57dd407ec5",
         "type": "tabs",
         "children": [
@@ -70,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202104200859 - Chat is a greedy form of communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +91,15 @@
             "id": "9b55fde810c60b5e",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "573791183c066454",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "empty",
               "state": {}
             }
           },
@@ -103,27 +107,47 @@
             "id": "413a4b9a9df190bd",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "099050d2fe50beb2",
+            "type": "leaf",
+            "state": {
               "type": "chat",
               "state": {}
             }
+          },
+          {
+            "id": "150201f9a3e1cc1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3195812aa740b158",
-  "lastOpenFiles": []
-  "active": "65d0d696e6e13dd4",
+  "active": "31c284f632af486f",
   "lastOpenFiles": [
-    "Chat is greedy.001.jpeg",
     "202104200859 - Chat is a greedy form of communication.md",
-    "Daily Journal/May 2021/2021-05-10.md",
-    "Reference/Books/Switch - How to Change Things When Change is Hard by Dan and Chip Heath.md",
-    "Chat is greedy/Chat is greedy.001.jpeg",
-    "202105081923 - To tweak a behavior make it easier to do or harder not to do.md",
-    "202105081923 -.md",
-    "Reference/Definitions/Untitled.md",
-    "Reference/Definitions/032920212323 - Crucial Conversation.md",
-    "Reference/Companies/Atlassian.md"
+    "Daily Journal/May 2021/2021-05-11.md",
+    "Reference/Articles/What Shamu Taught Me About a Happy Marriage.md",
+    "Reference/Articles/Untitled.md",
+    "Reference/Articles/11 Reasons Not to Become Famous - Tim Ferris.md",
+    "Reference/Areas of Interest/AI.md",
+    "Idea Explorers/Untitled.md",
+    "Idea Explorers/There is no easy way to convert between Firefox and Chrome Extensions.md",
+    "Idea Explorers/Meeting Notes/May 10, 2021.md",
+    "Daily Journal/May 2021/2021-05-10.md"
   ]
 }

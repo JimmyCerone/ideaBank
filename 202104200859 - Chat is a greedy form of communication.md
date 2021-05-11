@@ -5,6 +5,7 @@
 
 ## Connections
 - Connected with an article from [[Volley]] - https://www.volleyapp.com/post/the-space-between-slack-and-zoom
+- Connected with an article from [[Basecamp]]: https://basecamp.com/guides/group-chat-problems
 
 Source: [[I'm Walking Away From the Product I Spent a Year Building]] & [[The War on Developer Productivity]].
 

@@ -3,8 +3,9 @@
 [[03062021 - Levers]]:
 - Contrarian
 - Correct
+- Community vs individual
 
-These are the two #Levers / axis that make up a constructive noncomformist. 
+These are the two #Levers / axis that make up a constructive nonconformist. 
 
 I think using fictional characters would be a good way to go when writing an article about this (and it would make a good article). 
 

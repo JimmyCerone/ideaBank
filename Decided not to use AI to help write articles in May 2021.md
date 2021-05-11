@@ -1,0 +1,5 @@
+Tried out a few of the following tools in hopes of finding a way to tinker with my output ([[Changing how I output information with friends]] / [[Change how I handle information input]]). 
+
+Alas after trying these tools out I think it's better to stick with a plain old outline. I do think in the near future this will get better and I'd like to revisit this because of how [[Neil]] and I write our blog posts. It'd be dope to give an AI a topic outline and see it come up with some good stuff then edit and publish but it's not there yet. 
+
+There is some threshold where the [[AI]] gets useful. Returning again to Neil and I, when one of us prewrites an article, upwards of 90% of it is useful. That is the range it makes sense to edit instead of outline. It might be lower, more like 75%, but based on what I did with the AI, it was less than 50%. Once it hits 50% I think it makes sense to try to start optimizing inputs to see what you can get out of it, but it's just not there yet. 

@@ -3,6 +3,8 @@
 NEW VERSION
 ## Make Spin Easy Again
 
+Seems like my chat bot idea might not be the best. Trying to think through [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] framework here. 
+
 Expected delivery date: 2021-07-01
 
 ## What value would you like to focus on building for yourself this quarter?

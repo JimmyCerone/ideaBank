@@ -1,5 +1,9 @@
 #LowHangingFruit - An idea that we could quickly implement. 
 
+#PhysicalProduct  - Well positioned for a CAD modeling.
+
+#OneHundredIdeas - Ideas to submit for 100 ideas competition by [[Start Garden]]
+
 Readiness (per [[Psionica]]):
 - #Brainstorm - ideas that need more refinement that we can't or don't want to provide
 - #Studio - Best fit for writing about and not doing (huge lift)

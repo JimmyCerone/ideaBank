@@ -5,3 +5,5 @@ Source: From [[Cheap - The High Cost of Discount Culture]] - the bias of 99 cent
 Solution: Chrome extension that rounds up to the nearest whole number to check yourself. 
 
 Tags: #ChromeExtension, #Money , #Psychology, #Shopping , #Online, #Cheap
+
+#OneHundredIdeas 
