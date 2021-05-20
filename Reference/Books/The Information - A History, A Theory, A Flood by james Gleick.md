@@ -1,0 +1,1 @@
+Seems to be right on the level of [[Black Swan by Nassim Taleb]] for rethinking how I view the #History of information. Not sure if it will end up being a trunk type of book or simply an exhaustive leaf type of book like [[The Emperor of All Maladies by Siddartha Mukherjee]]

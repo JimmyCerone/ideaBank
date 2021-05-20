@@ -1,0 +1,1 @@
+Automatically negotiates your bills for you.

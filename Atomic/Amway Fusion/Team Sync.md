@@ -1,4 +1,22 @@
-March 31st, 2021
+# May 12, 2021
+- Referenced [[2021-05-03]] quite a bit.
+- Prof Dev
+	- Non technical side is good
+		- Demo
+		- Clarifying requirements
+	- Technical side needs work
+		- SQL book for prof dev
+			- Use the punch it database and annotate it
+		- Meeting with Jason about Starter Kit
+		- Typescript types
+			- Redo Tennis app
+- upcoming team change
+	- Lydia & Grace are rolling off.
+	- Jonathon is rolling on. 
+	- Accelerators will take on more story responsibility
+
+
+# March 31st, 2021
 
 
 ## Questions

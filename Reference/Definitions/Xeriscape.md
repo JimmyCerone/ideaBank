@@ -1,0 +1,3 @@
+Xeriscaping is a form of gardening that focuses on plants and gardening practices that can be maintained with low water levels. The term was coined by the Denver Water Department in 1978, from the Greek word for "dry," and xeriscaping has been promoted increasingly since then wherever water is a limited resource.[\[1\]](https://www.wikihow.com/Xeriscape#_note-1) While it has a reputation for "cacti and rocks" among gardeners who have not tried it, xeriscaping can create varied and beautiful environments.
+
+ Source: https://www.wikihow.com/Xeriscape

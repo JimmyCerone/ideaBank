@@ -9,5 +9,5 @@ Solution:
 
 #Honey for physical locations.
 
-Tags: #MechanicalTurk, #Budgeting , #Savings, #Shopping, #Money 
+Tags: #WizardOfOz , #Budgeting , #Savings, #Shopping, #Money 
 

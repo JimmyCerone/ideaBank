@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "31c284f632af486f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202104200859 - Chat is a greedy form of communication.md",
-            "mode": "source"
+        "id": "890385aff6067bde",
+        "type": "split",
+        "children": [
+          {
+            "id": "b356f15ad7501907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/People/Jesse Hill.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "75e14e38b7419aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/May 2021/2021-05-18.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feedback",
+                "query": "energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "92abecb38587e8b2",
@@ -76,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202104200859 - Chat is a greedy form of communication.md",
+                "file": "Reference/People/Jesse Hill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,30 +104,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "9b55fde810c60b5e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "573791183c066454",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "413a4b9a9df190bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -129,25 +124,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "0a922448556c18ec",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "31c284f632af486f",
+  "active": "b356f15ad7501907",
   "lastOpenFiles": [
-    "202104200859 - Chat is a greedy form of communication.md",
-    "Daily Journal/May 2021/2021-05-11.md",
-    "Reference/Articles/What Shamu Taught Me About a Happy Marriage.md",
-    "Reference/Articles/Untitled.md",
-    "Reference/Articles/11 Reasons Not to Become Famous - Tim Ferris.md",
-    "Reference/Areas of Interest/AI.md",
-    "Idea Explorers/Untitled.md",
-    "Idea Explorers/There is no easy way to convert between Firefox and Chrome Extensions.md",
-    "Idea Explorers/Meeting Notes/May 10, 2021.md",
-    "Daily Journal/May 2021/2021-05-10.md"
+    "Reference/People/Jesse Hill.md",
+    "Daily Journal/May 2021/2021-05-18.md",
+    "Daily Journal/May 2021/2021-05-19.md",
+    "Atomic/Amway Fusion/Issues/FUS-1995 - Editing product root and MPV info from product management area.md",
+    "Daily Journal/May 2021/2021-05-20.md",
+    "202105191618.md",
+    "Templates/Daily Journal Template.md",
+    "Atomic/Amway Fusion/Issues/FUS-2033 - Display resulting ratios in current row and standard ratios in new row when price editing..md",
+    "Daily Journal/May 2021/Untitled.md",
+    "Reference/Questions/Untitled.md"
   ]
 }

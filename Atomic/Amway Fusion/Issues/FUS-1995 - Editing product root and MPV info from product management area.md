@@ -1,3 +1,31 @@
+## [[2021-05-20]]
+- [x] Fix 2 other tests
+	- [x] These were flaky
+- [ ] Add role to page
+	- [ ] Check and see if that test passes
+	- [ ] Make the role selected by default
+- [ ] Update cypress tests to include testing for:
+	- [ ] New role
+	- [ ] global products
+
+## [[2021-05-19]]
+
+- [x] Fix cypress tests
+	- Weird failure. It seems that the whole left panel is disabled when a user is in the Sandbox and has all the permissions. Not sure that is in the scope of our story? Is that product attributes? Seems like they should not be disabled...![[Screen Shot 2021-05-19 at 12.37.54 PM.png]]
+- [ ] Fix 2 other tests
+- [ ] Add role to page
+	- [ ] Check and see if that test passes
+- [ ] Update cypress tests to include testing for:
+	- [ ] New role
+	- [ ] global products
+
+## Tests
+- [ ] modules/client/pages/create-product/__tests__/add-sales-bundle-mutation.test.ts
+	- Updated the test to include sandbox support but fails on a unique key error which makes me think it's trying to insert something on master, which makes me think we need andy's changes for this to pass. 
+	- ![[Screen Shot 2021-05-13 at 11.51.31 AM.png]]
+	- CONFIRMED ANDY PROBLEM - there is no `ProductSalesBundleEntry_DPOverlay` table as of yet.
+- [ ] 
+
 ## TODO
 - [x] Clarify product status question with Taylor
 - [x] Determine what level to write tests at

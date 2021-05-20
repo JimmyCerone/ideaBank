@@ -1,0 +1,1 @@
+#SocialNetwork  that limited your connections to 50 based on books like [[Tribe - On Homecoming and Belonging by Sebastian Junger]] and [[The Village Effect]]. 

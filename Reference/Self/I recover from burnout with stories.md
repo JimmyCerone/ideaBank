@@ -1,0 +1,1 @@
+This usually looks like staying up late reading and watching movies. It's an odd effect because I often get less sleep than normal. It's almost like the stories are a different kind of rest. Weird.

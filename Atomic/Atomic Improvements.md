@@ -54,6 +54,8 @@ Why don't we have a systematic, transparent approach for building and assigning 
 	- Should have a new edition every year for Atomicon
 - Atomic Writing Workshop
 	- Bird by Bird by Anne Lammot
+- An advancement system based on individualization instead of categorization. 
+	- Could be modeled off of what was presented in [[Principles by Ray Dalio]]. 
 
 
 ## Questions
@@ -61,7 +63,19 @@ Why don't we have a systematic, transparent approach for building and assigning 
 	- The conversation I had with Jonah Bailey sparked this: ![[Screen Shot 2021-04-16 at 5.29.36 PM.png]]
 - How can we make people at atomic to feel enough to change from [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] & [[The Power of Habits by Charles Duhigg]]?:
 	- blogging
-	- Staying colocated
+	- Staying collocated
+		- Problem:
+			- Shawn and Mike don't see this as a change. 
+			- Basically we have this problem [[202105051416 - Aiming at the Rider gives direction but not motivation]] because they think people already have motivation. 
+				- People are experiencing this as a loss, not a gain.
+				- "We just want to get back to where we were then we can experiment" is being interpreted as, "Give up all your leverage and then we will talk about"
+				- Why does leadership feel so strongly about this?
+					- Consistent problem where leadership feels like they are being super thoughtful and therefore deserve trust. 
+						- The problem is that since we haven't been colocated trust has decayed. 
+							- Therefore, we need to fix the trust problem. 
+		- Direct the Rider
+		- Motivate the Elephant
+		- Shape the Path
 	- Taking breaks 
 	- Ideas:
 		- Live music

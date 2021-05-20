@@ -18,4 +18,4 @@
 
 ## Themes
 
-\- #ProductHunt, #Mail, #Household, #Trial, #Website, #MechanicalTurk 
+\- #ProductHunt, #Mail, #Household, #Trial, #Website, #WizardOfOz  

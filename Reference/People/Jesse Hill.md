@@ -1,5 +1,37 @@
 #AtomicObject manager. 
 
+## Meeting [[2021-05-20]]
+
+- Talk about conversation with [[Jordan Nelson]] and how to deal with passiveness getting in the way of growth
+	- Talk about my experience vs [[Jason Porritt]]'s goal - why such a big gap?
+		- Jason is more experienced & sees the long term nature of this. I'm freaked out because it's the first time and Jason is not because he's seen this a million times. 
+	- talk about learning & Jordan
+		- Be more direct with asks:
+			- Driving
+			- Breaks
+			- Teaching
+		- CPR is happening now
+			- C is for an event you notice
+			- P is a pattern 
+			- R is relationship trouble
+- Talk about how to deal with Matt...
+
+Feedback
+- Don't quite on VIM, get better at it on your own time
+- Walking Blue during group discussions is not working
+	- Coaching is more ok
+	- Folks deserve max Jimmy and folks are not getting max Jimmy this way
+- Not ramping in as fast as normal
+	- Great accelerators have had this feedback before, not a crazy thing
+		- Typically because communication is not working enough to get people what they need. 
+	- This deserves my full attention and it matters to me
+		- Double down on Prof Dev
+			- SQL
+			- VIM
+			- Typescript
+	- What if driving looks like I drive until Jordan gets frustrated with a thing and then I go and learn about it. 
+
+
 ## Meeting [[2021-05-06]]
 
 Quarter Goals: 

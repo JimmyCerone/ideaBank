@@ -1,0 +1,1 @@
+Runs a bunch of mini companies that they call cells. [[Atomic Object]] does this per project. 

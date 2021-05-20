@@ -1,0 +1,1 @@
+Kind of like [[Black Swan by Nassim Taleb]]. 

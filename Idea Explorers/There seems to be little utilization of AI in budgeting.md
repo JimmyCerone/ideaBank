@@ -3,7 +3,7 @@
 Solution: 
 - A tool that takes in a #CSV of your transactions and spits out recommendations
 
-- Automated #MechanicalTurk
+- Automated #WizardOfOz 
 
 - Label "good" budget and a bad budget with some basic rules around it. 
 
