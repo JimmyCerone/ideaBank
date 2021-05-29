@@ -12,7 +12,7 @@ After reflecting and writing about my time outside, I realized the tension betwe
 
 This reflection throws a wrench in my self-image as an explorer because it necessitates that I’m a destroyer at the same time. Exploration always destroys something, whether it be an old conception of something or a physical object like that poor cocoon.
 
-To make this connection more serious, exploration in history has almost always been associated with exploitation and destruction. Whether you take the Mongols and [[Genghis Khan and the Making of the Modern World]] as your example or [[King Leopold's Ghost]], exploration and destruction are like thunder and rain. When you hear one coming, the other is not far behind.
+To make this connection more serious, exploration in history has almost always been associated with exploitation and destruction. Whether you take the Mongols and [[Genghis Khan and the Making of the Modern World by Jack Weatherford]] as your example or [[King Leopold's Ghost]], exploration and destruction are like thunder and rain. When you hear one coming, the other is not far behind.
 
 Yet, as you likely realize, it’s not that simple. You see, in the terminology of [[Principles by Ray Dalio]], destruction is the first order consequence of exploration. In some cases, the second order consequence is not so bad. By exploring the structure of wheat through it’s purposeful destruction for study, we have been able to create hardier strains and feed more people.
 

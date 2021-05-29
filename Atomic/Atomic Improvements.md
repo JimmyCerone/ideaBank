@@ -56,6 +56,7 @@ Why don't we have a systematic, transparent approach for building and assigning 
 	- Bird by Bird by Anne Lammot
 - An advancement system based on individualization instead of categorization. 
 	- Could be modeled off of what was presented in [[Principles by Ray Dalio]]. 
+- 5 Minute Presentation once a week for curiosity - [[Why two Clockwise designers built a video game that gives humans empathy for machines by Cathy Reisenwitz]]
 
 
 ## Questions

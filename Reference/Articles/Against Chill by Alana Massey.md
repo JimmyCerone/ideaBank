@@ -4,7 +4,7 @@ Some interesting [[03062021 - Levers]] at work here.
 
 > To the uninitiated, having Chill and being cool are synonyms. They describe a person with a laid-back attitude, an absence of neurosis, and reasonably interesting tastes and passions. But the person with Chill is crucially missing these last ingredients because they are too far removed from anything that looks like intensity to have passions. They have discernible tastes and beliefs but they are unlikely to materialize as passionate. Passion is polarizing; being enthusiastic or worked up is downright obsessive. Excessive Chill is “You do you” taken to its most extreme conclusion, giving everyone’s opinions and interests equal value so long as they’re authentically ours.
 
-In a weird sense, this intense form of chill is a form of #Libertarian of the worst degree. I almost prefer [[Nudge]] here because there is at least some animating force. 
+In a weird sense, this intense form of chill is a form of #Libertarian of the worst degree. I almost prefer [[Nudge by Richard Thaler and Cass Sunstein]] here because there is at least some animating force. 
 
 > Chill is different — it is agreeable because it is emotionally vacant. Chill is what Cool would look like with a lobotomy and no hobbies.
 

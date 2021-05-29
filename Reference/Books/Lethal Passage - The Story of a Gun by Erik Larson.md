@@ -11,7 +11,7 @@
 	- It started off as an association of hunters who were looking out for hunters rights. Then in the 1970's a hard line dude came in and changed everything. That said, the average NRA member doesn't hold the extreme views of the organization
 - The 2nd amendment says "well regulated"
 	- Never knew this and it fascinates me. What does that mean? Not 100% sure but I doubt it's all kinds of guns around. 
-- Making gun companies liable for damages is a [[Nudge]] style intervention that would effectively regulate the industry
+- Making gun companies liable for damages is a [[Nudge by Richard Thaler and Cass Sunstein]] style intervention that would effectively regulate the industry
 	- Fascinating point. Gotta wonder why this never happened. Toy manufacturers have to do this, why not for guns? 
 - The human toll of guns is high and data is bad
 	- Data for injuries isn't collected, which makes it seem better than it is. 

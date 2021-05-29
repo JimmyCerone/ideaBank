@@ -2,7 +2,7 @@
 
 Source: http://schoolforethics.org/wp-content/uploads/2018/06/Singer-Solution-to-World-Poverty-Lifeboat-Ethics.pdf
 
-#Nudge [[Nudge]]
+#Nudge [[Nudge by Richard Thaler and Cass Sunstein]]
 
 #Levers :
 

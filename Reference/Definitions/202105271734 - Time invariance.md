@@ -1,0 +1,1 @@
+The idea that doing things at different times will give you the same result. So gravity works as well now as it did 5 years ago. 

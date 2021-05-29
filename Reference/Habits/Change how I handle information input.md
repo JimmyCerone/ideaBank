@@ -22,7 +22,7 @@ Since I've started using [[Obsidian]] and other stuff, I've started to dread kee
 
 - Lowest = no notes or anything after reading, like [[Black Swan by Nassim Taleb]]. 
 - Middle = article on an idea like I did when [[Writing daily]]
-- Highest - what I did with [[Genghis Khan and the Making of the Modern World]]
+- Highest - what I did with [[Genghis Khan and the Making of the Modern World by Jack Weatherford]]
 
 ### Questions / Heuristic
 - How do I determine what to think more about? 

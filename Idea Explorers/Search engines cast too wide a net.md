@@ -23,7 +23,7 @@ Question:
 	- He wanted both more breadth and less depth
 - Idea came from [[Basecamp]] founder Jason Fried
 - In the [[The Hard Thing About Hard Things by Ben Horowitz]], he proposes a #Filters of, "Are you going to be the best in that field?"
-	- Could we beat google? Bing pays people to use it and can't topple Google. [[DuckDuckGo]] goes the privacy route. 
+	- Could we beat [[Google]]? [[Bing]] pays people to use it and can't topple Google. [[DuckDuckGo]] goes the privacy route. 
 - The [[03062021 - Levers]] we have identified are:
 	- The Database
 		- We could use #Wikipedia, which would limit the depth of our search and give us fewer results

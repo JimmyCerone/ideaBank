@@ -1,0 +1,1 @@
+This is why I think I struggle with onboarding, because it takes me a while to build the big picture of a project. I think this strategy worked well in school, where information was unlimited. On a specific project, where information is more limited and less contextualized, I've found this strategy hasn't worked as well as I'd thought.

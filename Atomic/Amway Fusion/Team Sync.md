@@ -1,3 +1,19 @@
+## [[2021-05-26]]
+
+- Why was this sprint so much better? 
+	- Mechanical improvements made the pairing experience better for [[Jordan Nelson]]
+	- Increased focus ([[03062021 - Levers]])
+		- Using camo for video
+		- Being focused for the first day seems to be huge
+			- This helps me understand the big picture which keeps me engaged
+			- Kind of an 80/20 thing
+		- More drive time
+	- Learning
+		- Learn more during work instead of trying to create time outside of work
+			- Look at how you can make your day better tomorrow instead of trying to follow industry trends
+		- Learn low hanging fruit for day to day
+			- VIM
+
 # May 12, 2021
 - Referenced [[2021-05-03]] quite a bit.
 - Prof Dev

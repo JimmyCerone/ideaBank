@@ -4,5 +4,5 @@
 
 ## Quote
 > Monsters exist, wrote Primo Levi of his experience at Aushwitz. "But they are far too few in number to be truly dangerous. More dangerous are...the functionaries ready to believe and to act without asking questions"
-- Curious what [[The Righteous Mind by Jonathon Haidt]] - how do we avoid this phenomenon? [[Nudge]]? Is it through the little things? Also, the quote reminds me of #Trump and #QAnon. 
+- Curious what [[The Righteous Mind by Jonathon Haidt]] - how do we avoid this phenomenon? [[Nudge by Richard Thaler and Cass Sunstein]]? Is it through the little things? Also, the quote reminds me of #Trump and #QAnon. 
 > Just as terrorizing people is part of conquest, so is forcing someone else to administer the terror. 

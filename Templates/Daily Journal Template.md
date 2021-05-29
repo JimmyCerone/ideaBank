@@ -7,4 +7,6 @@
 - Why did this idea stick out to me? 
 - What did it make me feel? 
 
+## Good Thing Today
+
 ## Free Write

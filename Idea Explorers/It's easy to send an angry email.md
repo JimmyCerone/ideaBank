@@ -4,7 +4,7 @@
 - Use [[AI]] #API to scan an email for sentiment analysis
 	- Why doesn't [[Google]] do this with gmail?
 	- [[Twitter]] has an early version of this
-- Force a human filter to read it - [[Nudge]]
+- Force a human filter to read it - [[Nudge by Richard Thaler and Cass Sunstein]]
 
 
 ## Questions

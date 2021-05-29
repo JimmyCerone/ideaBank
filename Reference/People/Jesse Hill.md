@@ -1,5 +1,34 @@
 #AtomicObject manager. 
 
+## Meeting [[2021-05-27]]
+
+- Rockford ride is mostly flat and relaxing
+	- That said, if it's like Jason and Patrick and Adam on the ride, then it can get going pretty fast. 
+- Professional Development
+	- 2 hour long blocks a week
+	- Could I co opt this and build it into my reading habit
+		- Audio Book
+		- Kindle Book
+		- Work book
+		- Physical book
+	- Think about this in terms of [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]]
+		- I have to figure out why this is worth doing and figure out the specific actions that get me the most benefit. 
+			- Why do I need to learn the basics of SQL? 
+				- Because I feel like Jason and others expect me to lead features and to do that I need to know the basics of SQL. 
+					- Right now I'm using a terrible strategy, which is basically [[Punished by Rewards by Alfie Kohn]]. 
+						- I'm direct the rider but not motivating the elephant ([[The Righteous Mind by Jonathon Haidt]])
+					- Prof dev can feel like self-care (if done well)
+				- The problem here is that I'm not particularly interested in leading a feature... 
+				- Motivations
+					- Incorporate it into my ideas
+					- Builds credibility for my ideas so that people give me more influence
+				- Have to feel like you are getting value and feeling like you are progressing
+					- Make a plan
+						- I have two problems, the elephant is not motivated and the path is not clear
+							- Elephant can be motivated by making this about my ideas - it's part of what I do and a new source for ideas instead of working against it. 
+							- Path can be cleared up by creating an end date, scheduling sessions to learn and writing down how I will do my work. 
+					- GOAL: Finish SQL Book by the end of June. By doing 2 sessions per week. 
+
 ## Meeting [[2021-05-20]]
 
 - Talk about conversation with [[Jordan Nelson]] and how to deal with passiveness getting in the way of growth

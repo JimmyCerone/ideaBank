@@ -1,3 +1,36 @@
+## [[2021-05-25]]
+
+Testing Instructions:
+
+1.  Navigate to the Change Access page.
+2.  Select the Affiliate User Role and the India Market.
+3.  Verify that the User does not have access to the Edit Product page.
+4.  Navigate to the Change Access page.
+5.  Select the Global User Role.
+6.  Verify that the User does not have access to the Edit Product page.
+7.  Navigate to the Change Access page. 
+8.  Select the Affiliate User & Portfolio Manager User Roles and the India Market.
+9.  Navigate to the Edit Product page while on Master.
+10. Verify that Product Attribute, Product Status, Market Product Variant Editing, Add Markets, Edit Pricing are all disabled.
+12. Select an In Progress Sandbox with the Market of India from the drop down menu.
+13.  Verify that Product Attribute, Product Status, Market Product Variant Editing, Add Markets, Edit Pricing are all enabled enabled for the Sandbox Market.
+14.  Navigate to the Edit Product page and select a Sales Bundle product. 
+15.  Verify that Bundle Add Products is enabled based on Product's Status (Draft = Enabled, Established = Disabled) and the Bundle Add Variant is enabled only for the Sandbox Market.
+16.  Navigate to the Change Access page.
+17.  Change your Market to China.
+18.  Navigate to the Edit Product page for an In Progress Sandbox with a Market that is not China. 
+20.  Verify that Product Attribute, Product Status, Market Product Variant Editing, Add Markets, Edit Pricing are all disabled.
+21.  Navigate to the Edit Product page and select a Sales Bundle product.
+22.  Verify that Bundle Add Products is disabled based on Product's Status (Draft = Enabled, Established = Disabled) and the Bundle Add Variant is disabled.
+23.  Navigate to the Change Access page.
+24.  Change your Role to Global Portfolio Hierarchy & Attribute Assigner.
+25.  Navigate to the Edit Product page for an In Progress Sandbox. 
+26.  Verify that Product Attribute, Product Status, Market Product Variant Editing, Add Markets, Edit Pricing are all enabled enabled for the Sandbox Market.
+27.  Navigate to the Edit Product page and select a Sales Bundle product in the Sandbox Market. 
+28.  Verify that Bundle Add Products is enabled based on Product's Status (Draft = Enabled, Established = Disabled) and the Bundle Add Variant is enabled only for the Sandbox Market.
+29.  In the Sandbox drop down, select an 'Awaiting Approval' Sandbox.
+30.  Verify that all editing is disabled.
+
 ## [[2021-05-20]]
 - [x] Fix 2 other tests
 	- [x] These were flaky

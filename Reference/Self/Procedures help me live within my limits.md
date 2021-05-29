@@ -1,0 +1,1 @@
+I don't do well with maximizing procedures but I do great with minimizing procedures like [[Limit my consumption of books and articles]]. 

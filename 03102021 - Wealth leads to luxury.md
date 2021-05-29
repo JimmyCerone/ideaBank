@@ -1,5 +1,5 @@
 ## Context
-- Thought through this #Idea while reading [[Titan The Life of John D. Rockefeller, Sr.]], [[Genghis Khan and the Making of the Modern World]], and [[The Wright Brothers by David]]. 
+- Thought through this #Idea while reading [[Titan The Life of John D. Rockefeller, Sr.]], [[Genghis Khan and the Making of the Modern World by Jack Weatherford]], and [[The Wright Brothers by David]]. 
 
 ## Idea
 - In the first two cases, the #Wealth did end up leading to luxury. Rockefeller kind of got addicted to nice things, building many houses even as he gave away tons and tons of #Money. He was still frugal and kept a tight grip on his cash, but ended up being rather extravagant in the end even as he said he wasn't. Genghis Kahn himself didn't end up loving #Luxury, but his people did and he was stuck in a constant cycle of conquering because of the acquisition of a new luxurious lifestyle. 

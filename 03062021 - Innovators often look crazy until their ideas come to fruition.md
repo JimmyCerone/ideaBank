@@ -5,4 +5,4 @@
 
 
 ## Connections
-- In an interesting connection, in [[King Leopold's Ghost]], many of his critics were looked upon as crazy. One of them committed suicide because of the intense scrutiny he faced. This connects with the idea that [[03132021 - Bad things happen slowly]]. People rarely notice what is going on and often don't want to because it requires changes to their #Worldivew, which as noted by [[Nudge]] and [[The Righteous Mind by Jonathon Haidt]] is very hard. 
+- In an interesting connection, in [[King Leopold's Ghost]], many of his critics were looked upon as crazy. One of them committed suicide because of the intense scrutiny he faced. This connects with the idea that [[03132021 - Bad things happen slowly]]. People rarely notice what is going on and often don't want to because it requires changes to their #Worldivew, which as noted by [[Nudge by Richard Thaler and Cass Sunstein]] and [[The Righteous Mind by Jonathon Haidt]] is very hard. 

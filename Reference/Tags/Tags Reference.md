@@ -7,6 +7,7 @@
 #BadTiming - Anachronistic ideas like [[Masks are hard to breathe in]]
 
 Readiness (per [[Psionica]]):
+- #Lacking - Doesn't need refinement, it needs growth (to be combined with another idea or to be significantly modified)
 - #Brainstorm - ideas that need more refinement that we can't or don't want to provide
 - #Studio - Best fit for writing about and not doing (huge lift)
 - #Lab - Quick and dirty experiment (How much does it cost?)
@@ -18,4 +19,4 @@ Readiness (per [[Psionica]]):
 
 #WizardOfOz - Do things that don't scale. Automate something by doing it yourself until it grows too large. 
 
-#Hard - Very challenging to implement but an interesting thought. Generally good for #Brainstorm 
+#Hard - Very challenging to implement but an interesting thought. A significant change in [[03062021 - Levers]] could make this feasible. Generally good for #Brainstorm 

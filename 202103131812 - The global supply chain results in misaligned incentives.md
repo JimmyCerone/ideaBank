@@ -4,4 +4,4 @@ In [[The Elephant and the Dragon by Robyn Meredith]], the author talks about the
 - What could this mean in light of [[03-04-2021 - Unbundling your phone into separate functions]]? Are there hidden downsides to that? 
 - I think books like [[The Hidden Life of Trees]] pose interesting alternatives to current #Systems. [[Seaton]] talks about #Permaculture as well and how things can synergistically outproduce what you'd expect. 
 - I have to wonder if this is more recognized than I think. Could this actually be an intended outcome of our current system if the theory that [[03062021 - Business is a war that not everyone is cut out for]] is true? 
-- This is kind of a corollary to [[202103131701 - Evil causes most of its harm indirectly]]. The intention may not be to destroy local #Community, but the incentives are setup to do so. And we know how that ends thanks to [[Nudge]]. 
+- This is kind of a corollary to [[202103131701 - Evil causes most of its harm indirectly]]. The intention may not be to destroy local #Community, but the incentives are setup to do so. And we know how that ends thanks to [[Nudge by Richard Thaler and Cass Sunstein]]. 

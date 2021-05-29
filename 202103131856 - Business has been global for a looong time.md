@@ -1,4 +1,4 @@
-[[Genghis Khan and the Making of the Modern World]] had an #Empire of #Globalism, trading with everyone from the Europeans to the Vietnamese. [[King Leopold's Ghost]] had #Investment in #Africa and #China. 
+[[Genghis Khan and the Making of the Modern World by Jack Weatherford]] had an #Empire of #Globalism, trading with everyone from the Europeans to the Vietnamese. [[King Leopold's Ghost]] had #Investment in #Africa and #China. 
 
 ## Questions
 - Why do we see #Globalism as so new? What about it has changed? 
