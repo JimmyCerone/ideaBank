@@ -1,0 +1,1 @@
+A weak version of an argument someone makes up to make the other person look bad. Almost like an ad hominom attack. 

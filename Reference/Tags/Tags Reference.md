@@ -6,6 +6,8 @@
 
 #BadTiming - Anachronistic ideas like [[Masks are hard to breathe in]]
 
+#Acquire - An idea made to be acquired.
+
 Readiness (per [[Psionica]]):
 - #Lacking - Doesn't need refinement, it needs growth (to be combined with another idea or to be significantly modified)
 - #Brainstorm - ideas that need more refinement that we can't or don't want to provide

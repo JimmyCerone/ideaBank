@@ -1,3 +1,30 @@
+## [[2021-06-09]]
+
+- Social life while pairing
+	- Bringing in random things disturbs context
+		- Maybe consider building out a system to take note of things you might want to say
+		- Extra important with Prod Support because there are lots of splits on focus.
+	- Reminds me of what I found last night about the urgency levels
+		- How do we bring this in person?
+			- Generally in person there is one channel (like [[It's hard to connect with people on large video calls]]) which makes it hard to create levels of urgency
+	- #Privacy 
+		- Split out messaging communication to the phone so that's private
+		- Benefit is that it keeps you accountable
+	- Communicate when you aren't actively pairing
+		- Tell them what other thing is going on.
+	- How to manage extra thoughts and being unfocused
+		- If your brain is worried about what is going on outside of work you need a way to let go of them. They just won't go away. It takes processing power to try to keep a hold of that idea. 
+		- Jot down a quick note to explore after work
+		- It's easier to get distracted when things are boring
+	- For the upcoming sprint, start thinking through what is the next step?
+		- Instead of thinking about something else, think about the next step. Or take notes on what you have been doing and what is coming next
+		- Use this as a filter when considering the next thing to do. 
+	- [[202106091124 - Pomodoro Technique]]
+		- Hard to apply here, needs to be more flexible. 
+		- So maybe what I can learn here is that planned breaks are useful
+	- When was I in the groove?
+		- Monday I had setup the test and had the DB and was debugging directly with #SQL. [[Lydia Cupery]] was excited by this because it was good debugging! And I was using the tools directly. 
+
 ## [[2021-05-26]]
 
 - Why was this sprint so much better? 

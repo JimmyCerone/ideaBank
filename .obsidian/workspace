@@ -4,12 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "307c860996694a99",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "fea7e4e726082c39",
+        "type": "split",
+        "children": [
+          {
+            "id": "5bf941e094979e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal/May 2021/2021-06-11.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d29bc76b91c576ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic/Amway Fusion/Issues/FUS 1768 - Typescript Function Argument Validation.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0ba11570fb4e1494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Companies/Terraform.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -36,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "actuflow",
+                "query": "matter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +85,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "92abecb38587e8b2",
@@ -73,12 +107,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Journal/May 2021/2021-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -115,20 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "307c860996694a99",
+  "active": "5bf941e094979e71",
   "lastOpenFiles": [
-    "202105281215 - Will power is a generalizable and trainable skill.md",
-    "Daily Journal/May 2021/2021-05-28.md",
-    "Reference/Articles/Why books don’t work By Andy Matuschak.md",
-    "Daily Journal/May 2021/2021-W22-05.md",
-    "Templates/Weekly Journal Template.md",
-    "202105281215- Will power is a generalizable and trainable skill.md",
-    "202105281215.md",
-    "Reference/Articles/Untitled 1.md",
-    "Reference/Articles/11 Reasons Not to Become Famous - Tim Ferris.md",
-    "Reference/Articles/The Unreasonable Effectiveness of Mathematics.md"
+    "Daily Journal/May 2021/2021-06-11.md",
+    "Reference/Companies/Untitled.md",
+    "Reference/Companies/Basecamp.md",
+    "Atomic/Amway Fusion/Issues/FUS 1768 - Typescript Function Argument Validation.md",
+    "Reference/Companies/Terraform.md",
+    "Atomic/Amway Fusion/Issues/Untitled.md",
+    "Atomic/Amway Fusion/Issues/FUS 2004 - Fix Terraform problems when creating a new environment.md",
+    "Reference/Articles/The Futures Cone, use and history by Joseph Voros.md",
+    "Reference/Articles/Untitled 2.md",
+    "Reference/Articles/11 Reasons Not to Become Famous - Tim Ferris.md"
   ]
 }

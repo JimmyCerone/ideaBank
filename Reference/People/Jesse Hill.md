@@ -1,5 +1,82 @@
 #AtomicObject manager. 
 
+## Meeting [[2021-06-10]]
+- [[Shawn Crowley]] and helping with in person vs remote
+	- Goal is the blessing to punch time to talk more about this
+- [[Getting Things Done by David Allen]]
+- How hard would it be to get back into dev after leaving dev?
+	- At this stage in my career, it would be challenging to get back into the industry at a solid pay. 5-10 years into my career this is easier. 
+		- The marginal learning per year early on is quite high. 
+- How hard would it be to get a Product Manager role? 
+	- Hard at a startup because they either have someone or are super early on.
+- Talking with [[Jason Porritt]] about [[202106091416 - There's an uneven distribution of knowledge on teams]] was super useful and I want to do more of this.
+	- How do I get more conversations like this?
+		- The newer you are in a company, the more adapted to the role you have to be. The older you are the more you get to adapt the role to you. 
+			- This might be bad news. The organization might not have room for someone like me, for things that I like to do. 
+		- Kind of like a Tech Lead as Jason has lots of these bigger conversations
+			- Research of the big ideas helps me climb the mountain more quickly
+				- Shift part of my reading towards coding discovery that builds up my basics. 
+					- I might have been biased against computer science because of how boring my classes were. 
+		- The answer might be to stay as a developer for X years and build more influence. 
+	- [[I "back out" details by understanding the big picture first, not vice versa]] can help out with this. So bring this to work with me. 
+
+## Meeting [[2021-06-03]]
+- [[Punished by Rewards by Alfie Kohn]]
+	- 
+- Me taking your job
+	- What does it look like? 
+		- Seasonal
+			- September through November is very busy. Lots of trying to talk to clubs and schools and doing career fairs. Tons of mock interviews.
+				- Interviewing he does not like
+					- Most of interviewing is saying no and concern spotting. We have 100 applicants for 4 positions (you say no 96%). 
+				- Hiring can also be stressful because there is lots outside of your control
+					- You are held accountable for people and things you can't control
+			- Early summer / spring is busy because of new cohort.
+			- Reflection is big
+				- What can we do better next time around?
+					- This type of question can be difficult because every cohort and member of each cohort is different. The goal is to create some sort of playbook. 
+			- Being a manager is weird and it sucks
+				- It exposes all of your faults
+				- There is an easy chemistry with some people and sometimes it is just not there. 
+					- Do you bring less of yourself to this person? Do you adapt to them? Do they adapt to you?
+				- Being a mid level manager is even worse
+					- People see you as a threat yet you also have little real power.
+					- You constantly have to dig deeper because people don't tell you the full story.
+					- Sometimes people feel you are representative of all the companies policies even if you disagree with them. You have to present the positive case. 
+			- Different work than being a developer
+				- Development is only about throughput - how much did you get done? 
+					- Hard to argue with - very concrete. Objective and someone can say it's good. Not the case with accelerator manager job. Highly subjective. 
+				- Being accelerator manager is more about saying the right thing in the right moment. 
+					- You can destroy a whole year of good work in 5 minutes
+					- Basically [[202104081532 - Value as a consultant is unevenly distributed]] on steroids
+					- Makes it unclear what you have done in a day
+					- Lots of critics because you have people from above and below and the side.
+			- No Pair
+				- All the stress and weight and no one to share it with. No one to bounce ideas off of. 
+			- Atomic is a thing he feels confident selling. 
+			- Favorite part is seeing the growth of people and what they do *after* the accelerator
+			- Little training you can do to prepare for becoming a manager
+				- Higher consequences for failure than being a developer
+			- Lots of time to take on interesting initiatives (which is also stressful because [[Making decisions is hard]])
+				- This is in part because of the [[03062021 - Levers]] that you get to pull because of the number of people you get to interact with. 
+			- Lots of emotional work because you are people's first touch point for American corporate life. 
+- RTO Stress
+	- Lots of factors and lots of new [[03062021 - Levers]] to deal with. 
+	- Basically I need to do more [[202106031023 - Function Stacking]]
+		- Biking to work is function stacking - exercise plus getting to work
+	- Be very clear with people about things.
+		- Be consistent with people. So phone calls only on certain days after certain times. 
+	- [[202105051633 - Finding bright spots motivates and directs change]] can be used to max out your satisfaction on a certain thing
+		- Go bigger on the one thing you do have time for. 
+	- Work habits and things in sequentially using [[Do 1 new habit at a time]] and [[Reward Myself for Meditating Daily & Monthly]]
+		- Maybe writing is the season of the winter and it gives you something to look forward to. 
+			- Maybe November is the month of reading and December is the month of writing or something. 
+			- Maybe February is the month of [[Neil]] and Jimmy projects!
+			- All based on [[202106031029 - It's not how much time an activity takes, it's how many things you are already doing]]
+- Rock
+- LA
+	- Am I moving to LA? Or visiting?
+
 ## Meeting [[2021-05-27]]
 
 - Rockford ride is mostly flat and relaxing

@@ -1,0 +1,2 @@
+## Reflection
+- A little nervous about this story as it seems like it will be time consuming to test. On top of that, I don't think I've ever seen [[Terraform]] work before. So that'd probably be good to learn about. 

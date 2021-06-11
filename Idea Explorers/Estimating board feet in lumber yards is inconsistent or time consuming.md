@@ -32,4 +32,4 @@ Volume calculation is very sensitive to diameter because it is squared.
 ## TODOS
 - [x] Ask Tad about this
 - [ ] Look up existing product that figures out the board feet in a bundle of processed wood via image. 
-- [ ] Company that is already rolling up technologies
+- [ ] Company that is already rolling up technologies - #Acquire #LowHangingFruit 

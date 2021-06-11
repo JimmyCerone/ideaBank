@@ -1,0 +1,1 @@
+Before we try to build out a big solution to a problem, we should first aim to first existing bright spots. These hint at [[03062021 - Levers]] we can move with little effort. Stumbled upon this process in [[Switch - How to Change Things When Change is Hard by Dan and Chip Heath]] and captured it in [[Starting with problems leads us to seek over complicated solutions]]. 

@@ -1,3 +1,8 @@
+## Flaky Issues
+- Sign in fails on the first try
+
+
+
 - Are we rounding retail price less tax on the Price Edit page? 
 	- If we do, we should not because we want all prices that deal with taxation to be exact. The rounding rule for retail price less tax should be nearest. 
 	- The rounding rule is nearest, but the round amount is 1.00 instead of 0.01

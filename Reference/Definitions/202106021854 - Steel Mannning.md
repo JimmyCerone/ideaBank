@@ -1,0 +1,1 @@
+The opposite of a [[202106021855 - Straw Man Argument]]. Used by St. Thomas of Aquinas often. You make the strongest argument for you opponent to deeply understand what they are saying. Reminds me of [[Crucial Conversations by Patterson and Company]] and [[Nonviolent Communication]] in some ways. 

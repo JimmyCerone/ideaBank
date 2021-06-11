@@ -1,0 +1,1 @@
+I want to do one of these a week without regard to the format. Even sending an email counts, but something every week where I'm learning about other people and other industries. 
