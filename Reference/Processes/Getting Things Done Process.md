@@ -1,0 +1,7 @@
+- Everything starts in the In Tray
+- From In-Tray, a decision is made (ONE ITEM AT A TIME) based on the following: ![GTD Workflow Filing | Getting Things Done | Pinterest](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.sortingthoughts.de%2Fblog%2Fwp-content%2Fuploads%2F2009%2F07%2Fgtd_quickref.png&f=1&nofb=1)
+- Next Action must be, "descriptive of a physical behavior" 
+	- 3 Options:
+		- Do It (< 2 mins)
+		- Delegate It
+		- Defer It

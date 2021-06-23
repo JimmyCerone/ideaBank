@@ -1,0 +1,14 @@
+## Actions
+- [ ] Ask dad about transferring domain name
+- [ ] Write about the "why" of having my personal website
+- [ ] Write about the "why" of my personal website
+- [ ] Search for a website provider and create a list of options
+- [ ] Write about potential options
+- [ ] Write about how to write about personal experiments (Soylent being the current one, training blue being another one)
+- [ ] Write about how to structure articles in light of [[Ideas in articles are hard to extract]]. 
+- [ ] Write about whether I want to include my digital timeline on the website
+- [ ] Write about reconsidering the rewriting / editing work I was doing and consider adding oasis like characteristics from [[Creating an Oasis with Zettelkasten Characteristics]]
+- [ ] Create a section of my website that references what I've been reading (including articles) like : Create a section of my website that references what I've been reading like: https://matthewstrom.com/reading
+- [ ] Create a now page that keeps you (and others) up to date on my priorities: https://sive.rs/nowff / https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma
+- [ ] Create a self education page that shows what professional skills I am learning (think SQL page) https://barbersmith.com/notes/self-education/
+- [ ] Add a coming soon section with stories that I am actively working on

@@ -1,3 +1,27 @@
+## [[2021-06-21]]
+- Sleep
+	- Had trouble going to bed by 11 but tried - routine thing
+	- Routine
+		- The one that worked best was reading an article and drawing my day on the [[Remarkable]]. 
+- "One of the killers of awe is technology because it puts everything at our fingertips so we aren't excited"
+	- Awe is a big part of happiness. 
+	- "I have an all you can eat buffet of knowledge which isn't good for me."
+- Approach tech with curiosity
+- Focus on relational things
+	- Tech is non-relational ([[03102021 - Not all tech is helpful]])
+	- What is our relationship with the world, each other, and more? 
+
+## [[2021-06-14]]
+- Is shmoozing holding me back from promoting my ideas?
+	- Since I'm afraid of shmoozing, I hold back ideas. What if what I think of shmoozing isn't shmoozing but being direct?
+		- Ambition is efficient. 
+		- What if i were to lose the judgement around working towards a goal?
+- "You will show up best in your relationships if you are satisfying your desires."
+- Exhaust your routes in the W2 world
+	- Be efficient in exploring the roles and flexibility 
+	- At work right now, "The fun things are meaningless and the meaningful things are not fun"
+- 11 PM and body scan
+
 ## [[2021-06-07]]
 
 - LA

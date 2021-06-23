@@ -1,0 +1,1 @@
+The study of the future. Had no idea this was a thing until I read [[The Futures Cone, use and history by Joseph Voros]]. 

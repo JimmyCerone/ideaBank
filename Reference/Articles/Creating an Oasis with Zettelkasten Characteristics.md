@@ -1,0 +1,1 @@
+Source: https://thinkingoutloud.substack.com/p/creating-an-oasis-with-zettelkasten

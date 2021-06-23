@@ -1,0 +1,1 @@
+Looked into this and realized with the portal is nice, there is no private alternative that I like (yet) and the iPhone is good enough. 

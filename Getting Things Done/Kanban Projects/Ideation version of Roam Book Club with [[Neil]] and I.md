@@ -1,0 +1,1 @@
+Like a mix of brainstorming project that we did and the book club we are doing except we do everything in a shared ideation graph. 

@@ -1,3 +1,13 @@
+## [[2021-06-22]]
+- Similarities
+	- Deep work with breaks in between to  be able to focus
+		- Rhythm of intense and relaxed
+		- One person is focused on the last thing and the other has already moved on to the last thing
+			- Clearly communicating what we are thinking on / when we are ready to move on. 
+				- Clearly communicate where my mind is. 
+- Look more into [[Terraform]]
+- Taken stories he thought he could do and worked on them late at night so that he was forced to work without asking questions 
+
 ## [[2021-06-09]]
 
 - Social life while pairing

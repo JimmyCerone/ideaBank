@@ -4,44 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fea7e4e726082c39",
-        "type": "split",
-        "children": [
-          {
-            "id": "5bf941e094979e71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal/May 2021/2021-06-11.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d29bc76b91c576ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic/Amway Fusion/Issues/FUS 1768 - Typescript Function Argument Validation.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0ba11570fb4e1494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Companies/Terraform.md",
-                "mode": "source"
-              }
-            }
+        "id": "e0c27551444916a9",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Getting Things Done/Getting Things Done.md"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,13 +55,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "92abecb38587e8b2",
@@ -107,13 +75,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Journal/May 2021/2021-06-11.md",
+                "file": "Getting Things Done/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -150,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5bf941e094979e71",
+  "active": "e0c27551444916a9",
   "lastOpenFiles": [
-    "Daily Journal/May 2021/2021-06-11.md",
-    "Reference/Companies/Untitled.md",
-    "Reference/Companies/Basecamp.md",
-    "Atomic/Amway Fusion/Issues/FUS 1768 - Typescript Function Argument Validation.md",
-    "Reference/Companies/Terraform.md",
-    "Atomic/Amway Fusion/Issues/Untitled.md",
-    "Atomic/Amway Fusion/Issues/FUS 2004 - Fix Terraform problems when creating a new environment.md",
-    "Reference/Articles/The Futures Cone, use and history by Joseph Voros.md",
-    "Reference/Articles/Untitled 2.md",
-    "Reference/Articles/11 Reasons Not to Become Famous - Tim Ferris.md"
+    "Getting Things Done/Getting Things Done.md",
+    "Getting Things Done/In Tray.md",
+    "Reference/Processes/Getting Things Done Process.md",
+    "Reference/Books/Getting Things Done by David Allen.md",
+    "202106230924.md",
+    "Reference/Processes/Untitled.md",
+    "Reference/Processes/Article First Approach.md",
+    "Personal Knowledge Managemet.md",
+    "Reference/Processes/Problem Solving Process.md",
+    "Reference/Processes/Logical Fallacy Check.md"
   ]
 }

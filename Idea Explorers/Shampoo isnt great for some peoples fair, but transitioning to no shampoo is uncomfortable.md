@@ -1,0 +1,1 @@
+#Problem: Shampoo isnt great for some peoples fair, but transitioning to no shampoo is uncomfortable

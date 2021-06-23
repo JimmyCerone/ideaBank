@@ -1,12 +1,9 @@
-## Article
-- Why does article stick out to me? 
-- What does it make me feel? 
-- What does it remind me of?
+## Things to Know
 
-## Idea
-- Why did this idea stick out to me? 
-- What did it make me feel? 
+## Read Something
+- What did I read today?
 
-## Good Thing Today
+## Write Something
+- What did I write today? 
 
-## Free Write
+## Give Thanks

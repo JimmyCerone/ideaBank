@@ -1,5 +1,26 @@
 #AtomicObject manager. 
 
+## Meeting [[2021-06-15]]
+- [[Head First SQL]]
+- Working with Patrick
+- Marketing stuff?
+- Working remote but only kind of?
+- Next Rock?
+	- Take concrete steps to getting to the higher company level
+	- The sooner I crush development, the sooner people let me do other things
+		- Sometimes it takes accomplishments. When jesse pulled off his first atomic con it made him feel better about being him. He could demonstrate value. 
+	- Next Rock is back to basics again
+		- Typescript
+		- React
+		- Webpack / Building out a site
+		- GraphQL
+		- AWS Solutions Architect
+		- Redo of EvoAnima app
+- Recharging
+- Navigating interrupting people in real life
+- Missing [[Slack]] messages because they give me time to think
+
+
 ## Meeting [[2021-06-10]]
 - [[Shawn Crowley]] and helping with in person vs remote
 	- Goal is the blessing to punch time to talk more about this

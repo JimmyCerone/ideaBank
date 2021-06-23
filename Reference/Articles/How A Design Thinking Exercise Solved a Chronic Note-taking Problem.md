@@ -1,0 +1,5 @@
+## Summary 
+> What I’m calling “buds” are a fragment of thought sparked in some broader context. However, they’re not yet clear enough to be divorced from that context and retain meaning. They’re something to come back to and reflect on and develop out. Coming back to a bud that I’ve clipped from its context more than a few weeks out is like a puzzle my past self left for me to solve.
+> Two things changed: First, I began associating these thoughts to the "buds" from the [Rose, Bud, Thorn](https://spin.atomicobject.com/2018/04/03/design-thinking-rose-bud-thorn/) exercise we do at Atomic. Each is an _area of opportunity_ or idea I’ve yet to explore, as Kim describes them
+
+Source: https://spin.atomicobject.com/2021/05/28/how-a-design-thinking-exercise-solved-a-chronic-note-taking-problem/?utm_source=twitter-ao&utm_medium=social&utm_campaign=how-a-design-thinking-exercise-solved-a-chronic-note-taking-problem

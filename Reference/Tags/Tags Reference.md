@@ -9,6 +9,7 @@
 #Acquire - An idea made to be acquired.
 
 Readiness (per [[Psionica]]):
+- #Bud - Tiny kernel of an idea from [[How A Design Thinking Exercise Solved a Chronic Note-taking Problem]].
 - #Lacking - Doesn't need refinement, it needs growth (to be combined with another idea or to be significantly modified)
 - #Brainstorm - ideas that need more refinement that we can't or don't want to provide
 - #Studio - Best fit for writing about and not doing (huge lift)
@@ -22,3 +23,5 @@ Readiness (per [[Psionica]]):
 #WizardOfOz - Do things that don't scale. Automate something by doing it yourself until it grows too large. 
 
 #Hard - Very challenging to implement but an interesting thought. A significant change in [[03062021 - Levers]] could make this feasible. Generally good for #Brainstorm 
+
+#Rich - An interesting, subtle problem.
