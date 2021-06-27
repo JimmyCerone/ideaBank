@@ -1,5 +1,34 @@
 #AtomicObject manager. 
 
+## Meeting [[2021-07-01]]
+
+- Bring up the post accelerator accelerator
+
+## Meeting [[2021-06-24]]
+- Quarterly Rock - [[Quarter 3 2021]]
+	- Typescript Primer
+		- Which course?
+			- The 
+- Working a night a week
+	- Intentionally working when you have no help is not good for the client
+		- Work till you get stuck or have multiple things to work on so you can switch if you are stuck
+- Pairing - "Easier to change my own thinking than someone else's"
+	- More asking questions than telling
+	- Frustrations
+		- Working at night
+			- Overnight retro to talk about the progress since last time
+		- Copying and pasting
+			- Suggestions vs "shoulding"
+		- Competing vibes
+			- Identify competition as dangerous and figure out how to go the other way
+				- Defuse by showing what it feels like in subtle ish ways.
+		- Framing as questions
+			- I was frustrated that he didn't do this super well. How did I do?
+				- "I think I got it - let me explain it to you."
+				- Make it clear what kind of feedback you want
+					- Is this a rough draft? Is this a final draft?
+	- People like helpful suggestions more than being told what to do -> this is a way of helping people level up
+
 ## Meeting [[2021-06-15]]
 - [[Head First SQL]]
 - Working with Patrick

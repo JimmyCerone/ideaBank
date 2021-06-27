@@ -1,0 +1,1 @@
+One of my favorite religious authors of all time, right up there next to Thomas Merton. This book stunned me in it's wisdom and clarity, yet also it's gentleness and grace.

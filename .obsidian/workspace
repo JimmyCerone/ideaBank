@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c27551444916a9",
+        "id": "59f17d2d52ff07d9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Getting Things Done/Getting Things Done.md"
+            "file": "Getting Things Done/Kanban Projects/Write about how I'm feeling right now and the habits and things that got me there.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "954d8db1efd63d7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reference/Processes/Doing Well In Life.md",
+            "mode": "source"
           }
         }
       }
@@ -75,13 +87,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Things Done/Getting Things Done.md",
+                "file": "Reference/Processes/Doing Well In Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -113,25 +125,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e0c27551444916a9",
+  "active": "954d8db1efd63d7c",
   "lastOpenFiles": [
-    "Getting Things Done/Getting Things Done.md",
-    "Getting Things Done/In Tray.md",
-    "Reference/Processes/Getting Things Done Process.md",
-    "Reference/Books/Getting Things Done by David Allen.md",
-    "202106230924.md",
     "Reference/Processes/Untitled.md",
     "Reference/Processes/Article First Approach.md",
-    "Personal Knowledge Managemet.md",
+    "Getting Things Done/Kanban Projects/Write about how I'm feeling right now and the habits and things that got me there.md",
+    "Getting Things Done/Getting Things Done.md",
+    "Reference/Processes/Commitment Analyzer.md",
+    "Reference/Processes/Weekly Review.md",
     "Reference/Processes/Problem Solving Process.md",
-    "Reference/Processes/Logical Fallacy Check.md"
+    "Reference/Processes/Logical Fallacy Check.md",
+    "Reference/Processes/Getting Things Done Process.md",
+    "Reference/Processes/Choosing Next Actions.md"
   ]
 }

@@ -1,0 +1,1 @@
+I want to own only books I love. I don't want a huge library, but a meaningful one of books I want to give away. I want to double down on this habit, yet I'm afraid to give up all the books sitting in my closet as of [[2021-06-26]]. 

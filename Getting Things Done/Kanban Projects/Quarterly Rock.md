@@ -8,6 +8,12 @@
 #### Overview
 Basic idea is getting back to basics and locking them down. Per my discussion with [[Jesse Hill]] on [[2021-06-15]]. 
 
+##### Fusion Priorities
+- Typescript
+- AWS
+- Terraform
+- VIM
+
 Here's my ideas so far: 
 
 - VIM

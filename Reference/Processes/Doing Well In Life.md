@@ -1,0 +1,32 @@
+## Questions to Check in About
+- Am I getting out of the house?
+	- If not, consider one of the following activities you know you like:
+		- Going to the library
+		- Going to a book store
+		- Going to the dog park
+		- Going to Martha's Vineyard
+		- Trying a new restaurant
+		- Going on a hike with a friend
+		- Meeting a friend for any of the above activities
+- Am I getting social time?
+	- If not, consider one of the following activities you know you like:
+		- Factime your mom, brother, dad, or Liv
+		- Go into work somewhere
+		-  Go to the dog park
+		-  Go see live music
+		-  Schedule a call with a friend from somewhere like the [[Oregon Extension]]
+		-  Go on a walk with Blue with someone (or call someone while you walk)
+-  Am I getting focused time for work? 
+	-  If not, consider one of the following options you know you like:
+		-  Write for 30 minutes with [[Cold Turkey]] Writer
+		-  Write for a minute on the [[Remarkable]]
+		-  Look at your calendar and create a free night this week
+		-  Review your priorities on [[Getting Things Done/Getting Things Done]] and eliminate useless work
+		-  Write a reflection about what you are doing and how you are feeling
+		-  Consider trying out the [[Problem Solving Process]]
+-  Am I overworking?
+	-  If so, consider writing about the following questions:
+		-  What am I avoiding?
+		-  What am I scared of?
+		-  Who or what am I missing?
+		-  

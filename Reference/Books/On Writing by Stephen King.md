@@ -1,0 +1,1 @@
+An odd mix of autobiography (fascinating and shockingly honest) and craft talk. One of my favorite books, period. 

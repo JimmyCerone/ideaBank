@@ -1,0 +1,1 @@
+Source: https://austinkleon.com/2021/06/22/bad-ideas-get-stolen-plenty/

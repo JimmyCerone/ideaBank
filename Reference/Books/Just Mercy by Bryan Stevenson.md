@@ -1,0 +1,1 @@
+A book [[Joey Cerone]] got me and I thought it was a joke gift (he had gotten the copy from school). Once I started reading, I realized what a gift this book was. Didn't redo how I felt about the justice system, but gave feeling to what I thought. 

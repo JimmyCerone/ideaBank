@@ -7,8 +7,10 @@
 - [ ] Write about how to write about personal experiments (Soylent being the current one, training blue being another one)
 - [ ] Write about how to structure articles in light of [[Ideas in articles are hard to extract]]. 
 - [ ] Write about whether I want to include my digital timeline on the website
+	- [ ] https://historytimeline.app/wiki/index.php/Main_Page
 - [ ] Write about reconsidering the rewriting / editing work I was doing and consider adding oasis like characteristics from [[Creating an Oasis with Zettelkasten Characteristics]]
 - [ ] Create a section of my website that references what I've been reading (including articles) like : Create a section of my website that references what I've been reading like: https://matthewstrom.com/reading
 - [ ] Create a now page that keeps you (and others) up to date on my priorities: https://sive.rs/nowff / https://notes.andymatuschak.org/zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma
 - [ ] Create a self education page that shows what professional skills I am learning (think SQL page) https://barbersmith.com/notes/self-education/
 - [ ] Add a coming soon section with stories that I am actively working on
+- [ ] Research the feasability of this out on a website: https://www.npmjs.com/package/alap

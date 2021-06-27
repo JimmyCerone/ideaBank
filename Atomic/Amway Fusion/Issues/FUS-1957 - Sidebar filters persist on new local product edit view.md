@@ -1,0 +1,13 @@
+## Steps
+- [ ] Determine root of deployment issue
+	- On review2, the following error occurs: ![[Screen Shot 2021-06-25 at 9.13.29 PM.png]]
+	- Retrying on review6
+- [x] Pair with Patrick to improve implementation (if possible ;) ) 
+- [x] Write failing cypress test
+- [x] Determine the cause of the failing test
+	- The file where it all happens is: `modules/client/pages/edit-product/product-details/product-markets/tables/header.tsx`
+		- Path is created here, and it doesn't seem to have anything to do with the filters: `modules/client/routes/manage-data/product-data-management/products/edit-bundle-pricing.ts`
+			- On Navigate comes from here, so it's not that: `modules/client/pages/edit-product/loader.tsx`
+		- Seems to be two versions of the tables, one for sales bundles and one for finished goods
+		- The filtering all takes place within the `modules/client/pages/price-edit/price-edit-filter-sidebar.tsx`
+		- Lines `68-81` in `modules/client/pages/edit-product/product-details/product-markets/tables/header.tsx` is the key here. Simple have to change up `setPriceEditReportState` and we good to go. Might have to do the same for the sales bundle, which looks slightly different, which is weird. Looks like the setup there is very different and there is no "Edit Pricing" button so we are good to go there. 

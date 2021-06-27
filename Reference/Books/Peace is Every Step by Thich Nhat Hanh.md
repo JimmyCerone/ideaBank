@@ -1,0 +1,1 @@
+A centering book for me, much like [[Beautiful Outlaw by John Eldridge]] or [[Reboot by Jerry Colonna]]. Given to me by [[Isaac Nelson]] with a stunningly kind note.

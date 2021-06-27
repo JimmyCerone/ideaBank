@@ -5,3 +5,6 @@
 		- Do It (< 2 mins)
 		- Delegate It
 		- Defer It
+- Organize actions by action type
+	- Calls go with calls, personal goes with personal
+- Review projects weekly

@@ -1,5 +1,3 @@
-
-
 Whenever I tell people I "do software" they lean in and put up walls. It's a somewhat contradictory reaction, but an understandable one. Outside of tech, software development is looked upon as a kind of magic. It's both attractive and intimidating. Attractive because you can seemingly make anything with this magic and intimidating because the making of such things is unintelligible to outsiders.
 
 In a way, the intimidation is warranted. #Software  _is_ a lot like magic: developers speak arcane languages and write spells we call #Code. [Even new developers see it as magical.](https://spin.atomicobject.com/2017/08/29/strategies-new-developer/) I remember the first time I started coding, I felt as if I'd walked into the wardrobe and found Narnia. It was a new world, scary and dangerous. I broke the first terminal I touched, blowing up my Raspberry Pi so badly I still haven't fixed it, 5 years later. I floundered around a cloud based development environment, mixing up files and generally writing terrible code. It was a profoundly confusing experience.

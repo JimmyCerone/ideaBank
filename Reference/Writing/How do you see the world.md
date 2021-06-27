@@ -82,7 +82,7 @@ Books
 
 [[Lean Startup]]
 
-[[Scary Close]]
+[[Scary Close by Donald Miller]]
 
 [[The Village Effect]]
 

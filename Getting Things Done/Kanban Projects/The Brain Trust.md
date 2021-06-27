@@ -2,4 +2,4 @@
 - [ ] Google SendFox for email list
 - [ ] Look into Obsidian Sync for note taking as a group
 - [ ] Adapt Neil and Jimmy's philosophy and share out to Russell
-- [ ] Schedule a time with Russell to build out tool stack
+- [x] Schedule a time with Russell to build out tool stack
